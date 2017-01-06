@@ -1,9 +1,6 @@
 
-- Jean Baudrillard, *Le système des objets* (1968)
-- *Technophobia!*, Daniel Dinello
-
 <br>
-###Plan du mémoire
+###Plan du mémoire détaillé
 
 <br>
 ####Introduction
@@ -46,6 +43,12 @@
 - **Susciter le débat** : en interrogeant le futur, les designers créent un contexte favorable à la discussion, à l'interrogation, et au débat autour de certaines questions éthiques, politiques, sociales...etc
 
 
-ce qu réunit la vision du futur gafam et design fiction = la technologie ? le progrès ?
-<br>
+ce qui réunit la vision du futur gafam et design fiction = la technologie ? le progrès ?
+
+----
+
 ####Réinventer le futur
+
+#####Réferences ++
+- Jean Baudrillard, *Le système des objets* (1968)
+- *Technophobia!*, Daniel Dinello
