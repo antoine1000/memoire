@@ -37,8 +37,10 @@ Exemple : Next is Now (Samsung), Amazon Go (Amazon), L'avenir s'annonce passionn
 optimisme du futur / contraste avec dystopie du futur, discours du design sur le futur, paradoxe, parle d'une image du futur
 
 Rétro-futurisme Simon Reynolds, réactivation d'une nostalgie par le futur, crise de la critique musical
+
 Hypernormalisation, Alan Curtis : docu sur les drogues milieux high-tech, interaction entre drogues / technologies
 faillite de l'idéologie de la neutralité du design
+
 science fiction spéculative
 La main gauche de la nuit, Ursula Leguin
 L'autre moitié de l'homme, Johanna Reus
@@ -47,13 +49,14 @@ Le sens du vent de Jan Denks
 
 
 
--  Les futurs du passés, les futurs "qu insistent", les **rétro-futurs**. Comment les designers spéculatifs tentent d'échapper à ces rétro-futurs ? Le futur n'existe pas (on ne sait pas de quoi l'avenir sera fait), seuls les futurs du passés **existent**.
+-  Les futurs du passés, les futurs "qui insistent", les **rétro-futurs**. Comment les designers spéculatifs tentent d'échapper à ces rétro-futurs ? Le futur n'existe pas (on ne sait pas de quoi l'avenir sera fait), seuls les futurs du passés **existent**.
 
 <br>
 #### 3 exemples de projets:
 
 - Le court métrage *A Digital Tommorow*, par le Near Future Laboratory.  Il se propose de décrire les gestes et rituels d’interactions quotidiens avec nos futurs objets numériques. Ce petit film fait partie d’un projet de recherche examinant les postures, attitudes, gestes et normes sociales ayant émergé avec l’utilisation d’appareils tels que nos téléphones mobiles, robots, réseaux de capteurs et autres ordinateurs. Chacune de ces scènes peut être comprise comme une alternative aux visions grandioses représentées par les firmes technologiques dans leurs vidéos promotionnelles.
-- L'appareil crée par Sascha  Pohflepp : *Blind  Camera*,  un appareil photo fonctionnel designé et construit dans un but speculatif autour de l'évolution de la manière dont on prend une photographie. L'objet récupère et affiche des photographies d'autres gens prises au moment même où le bouton est appuyé. Cet objet interroge les rituels liés à la photographie et propose un  scénario du "futur de l'appareil photo".
+
+- L'appareil crée par Sascha  Pohflepp : *Blind  Camera*,  un appareil photo fonctionnel designé et construit dans un but speculatif autour de l'évolution de la photographie. L'objet récupère et affiche des photographies d'autres gens prises au moment même où l'on appuie sur le bouton. Cet objet interroge les rituels liés à la photographie et propose un  scénario du "futur de l'appareil photo".
 - chat
 
 
@@ -66,7 +69,7 @@ Le sens du vent de Jan Denks
 - Lire et résumer en quelques paragraphes les livres qui sont le support de ma pensée : les grandes idées, les références, et ajouter mon avis là dessus.
 
 notion de "spéculatif", qu'est ce que le spéculatif? c'est pas l'utopie, ni la dystopie, oblige à penser les choses de manière précise
-faire résonner le "spéculatif" avec le rétro-futurisme, etc... mettre de la pensée dans mes intuitions, si je croise ça avec une série d'oeuvres de SF, qu'est ce qui se met en jeu, question du design, faire une vue d'ensemble
+faire résonner le "spéculatif" avec le rétro-futurisme, etc... mettre de la pensée dans mes intuitions, si je croise ça avec une série d'oeuvres de SF, qu'est ce qui se met en jeu, question du design, **faire une vue d'ensemble**
 
 faire un plan
 utopie et dystopie PAR le design

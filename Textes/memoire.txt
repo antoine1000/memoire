@@ -1,0 +1,111 @@
+#Design fiction : à la recherche des nouveaux imaginaires 
+
+L'autre jour, je marchais dans la rue avec un ami. Tout en discutant, nous croisons un homme circulant sur un *hoverboard*, ces planches à roulettes éléctriques qui avancent de manière autonomes. Bien que cela soit devenu monnaie courante en 2017, mon ami me fait remarquer, amusé : "C'est le futur ça !". 
+
+Si je commence mon mémoire par cette courte histoire, c'est que cela m'arrive constamment ces dernières années. Qu'il s'agisse d'un produit contrôlé par la voix, d'un bras robot automatisé, d'un effet visuel à la mode dans une vidéo, [exemples], cette petite remarque revient sans cesse : "Ce truc, **c'est le futur**".
+
+Hormis le côté anecdotique de la chose, cela m'a amené à me poser cette question : qu'est ce que cela peut bien vouloir dire de notre vision du futur ? Certains scénarios et objets de la science-fiction des années 1970 semblent s'être concrétiser [exemples], mais conservent malgré tout cette "aura futuriste" (ou plutôt devrait-on dire rétro-futuriste). Nous sommes habitués à voir une certaine vision du futur.
+
+Le futur, en tant que concept, a envahit les pans de la communication de marques. On essaye de nous le vendre à toutes les sauces : Next is Now (Samsung), ... (même les marques de dentifrice s'y mettent, comme Colgate et son "futur radieux pour vos gencives"). 
+
+Le futur fait vendre parce qu'il représente à la fois un espace temps encore vierge et porteur d'espoir, que l'on peut encore conquérir, mais aussi parce que pour beaucoup, il est synonyme de progrès ; le futur, c'est le changement, c'est la nouveauté, l'amélioration, l'innovation. Avec le concept de futur émerge celui des possibles, car lui seul active avec tant de force les imaginaires. L'imagination peut s'y déployer au sein d'un espace de projection infini.
+
+La rapidité des changements de la société occidentale, rendue possible entre autre par les communications en réseau (Internet) et [la production intensive de technologies grand public], crée selon moi une grande confusion sur notre définition du futur. C'est le fameux : "à notre époque, tout va trop vite !", avec sa variante "la *technologie* va trop vite !". En effet, la technologie est profondément associé au futur. [définitions de la technologie].
+
+Si notre époque a tant de mal à définir, ou plutôt à se représenter le futur, autrement que par des [clichés], c'est en partie parce que nous vivons dans un temps difficile à cerner. Ce que l'écrivain de science-fiction Bruce Sterling appelle l'atemporalité. Il décrit l'atemporalité comme une sorte de présent permanent, dans lequel le futur s'active incessement, sous des formes multiples. [revoir l'itw]
+
+
+D'autres même, affirment que le futur n'existe pas, à juste titre (Bublex)
+
+Le chercheur et ethnologue Nicolas Nova prétend que le futur subit une panne des imaginaires. Nous n'arriverions plus à nous projeter dans des images du futur qui n'aient pas été déjà pensées, conçues, inventées.
+
+De quoi sont fait nos imaginaires du futur aujourd'hui ? L'idée est de tenter de répondre à cette question sous le prisme d'une pratique artistique.
+
+C'est pourquoi ce mémoire aura comme objet d'étude un mouvement apparu au milieu des années 2000 : le *design fiction*. Ce mouvement, en plein essor, s'efforce de proposer des alternatives aux futurs produit par les sociétés technologiques et les medias mainstream. En restreignant les questionnements autour d'une pratique distincte, évoluant dans le champ de l'art, et produisant des objets singuliers, cela permettra à la fois de définir les contours du design fiction, et de dégager des éléments de réponses faisant écho à ma pratique personnelle. 
+
+Il ne s'agit pas de répondre de manière exhaustive (cela serait impossible), mais au contraire pointer des éléments de réponse qui font sens avec mon travail autour de cette grande thématique qu'est *le futur* et des imaginaires qu'il produit.
+
+La construction du mémoire est faite dans une opposition entre l'innovation et la proposition.
+
+
+
+###Constat
+
+Le futur subirait une panne des imaginaires. Qu'est ce que l'on designe par futur et par imaginaires ? Qui fabriquent ces imaginaires ? En quoi sont-ils usés ? 
+
+Restreindre le mémoire au champ du design, pour plusieurs raisons : ma pratique s'inscrit dans ce champ, on s'intéressera aux principaux producteurs d'objets de design liés au futur (en quoi sont-ils liés au futur ?) : d'un côté les géants américains des secteurs de la technologie et de l'innovation (qui déploient une certaine vision du futur à travers leurs utopies) et de l'autre un mouvement de designers qui tentent d'imaginer de nouvelles formes de futur.
+
+1) la panne
+- clichés de la SF, essouflement
+- Silicon Valley, design utilitaire, fonctionnel et mercantile
+--> soumis à l'innovation, design obsolète/obsolescent
+en terme de forme/de matière (esthétique aseptisé, lisse et propre, disparition des volumes, des couleurs) et d'usage (fonction, contrôle / opacité des produits, aspect le plus ridicule)
+
+plus qu'imaginer le futur, ou pire, de vouloir le prédire, le design fiction interroge le présent
+
+- de quoi parle-ton quand on invoque *les imaginaires* ?
+- Définir le design fictions : un mouvement, des projets, ses objectifs, la critique que l'on peut en faire 
+- les utopies de la Silicon Valley : un danger pour les imaginaires ? La Silicon Valley a-t-elle absorbé toutes nos visions d’avenir ? (usbek&rica)
+
+silicon valley -> une toute croyance en la technologie
+> exercice d'imagination, il convient de repenser ces modèles érigés en culte par la Silicon Valley
+
+
+
+----
+
+###Parler de ce qui se rattache à ma pratique
+
+J'inscris ma pratique dans le champ du design interactif, c'est à dire la mise en place de dispositifs qui s'activent et répondent à tout type de données (mouvements, data, clics, sons, etc..). La capture de plus en plus précise de ces données et la capacité computationelle des ordinateurs à les interpréter et à les comprendre ouvrent un champ très large de nouvelles possibilités créatives. Bien qu'utilisant ces technologies, j'essaye de poser un regard critique sur tous aspects positifs et négatifs qu'elles peuvent engendrer ; l'obsolescence ultra-rapide des objets numériques, la surveillance de tous les recoins de la vie, le *digital labor* ou l'aseptisation des esthétiques en sont des exemples.
+
+
+###Pourquoi choisir le design fiction ?
+
+C'est une discipline qui produit des objets tangibles, qui par nature s'intéresse au lien entre fonctionnalité et forme. Le design permet donc d'imaginer de nouvelles fonctionnalités et de nouvelles formes pour des usages à venir (on trouve déjà ici l'idée d'une *spéculation* vis-à-vis des usages).
+
+Le design fiction a éveillé ma curiosité car il se situe à l'intersection de plusieurs champs : design, art et sciences. Il m'a paru nécessaire de découvrir ce qu'avait à des dire des practiciens au sujet des nouveeux imaginaires. Les projets de design fiction ne sont pas uniquement produit par des designers, mais aussi par des artistes, des architectes, des théoriciens. C'est pourquoi l'on parle aussi de *speculative design*, de *design for debate*, d'*anti-design*... C'est une multiplicité de pratiques qui viennent se greffer au design fiction, et c'est pourquoi les oeuvres abordés dans ce mémoire ne sont pas nécessairement des "objets" mais aussi des installations, des objets de mode, des films ou des bâtiments.
+
+La force de la fiction dans le design réside dans sa capacité à évacuer le présent (en l'écartant de toute mise en oeuvre pratique et fonctionnelle), tout en le préservant [le présent] au coeur du débat (quelles implications si un tel objet ou une telle situation devait apparaître ?). Le présent, et ses tendances, sont le point de départ de ces fictions.
+
+Quand on parle de *design fiction*, on ne parle pas uniquement de design d'objet, mais de design sous toutes les formes qu'il peut arborer : design interactif, design d'interfaces, design graphique, design thinking...etc. Le design étant inscrit dans ma pratique, il m'est apparu naturel de m'y intéresser plus qu'à d'autres formes. Design & futur, donc.
+
+Deux bases théoriques importantes constituent ce mémoire. Elles proviennent à la fois de practiciens et de théoriciens. 
+
+Les premiers sont un duo de designers, les anglais Anthony Dunne et Fionna Rabby, qui, dans leur livre sous forme de manifeste *Speculative Everything*, décrivent et promeuvent la pratique du design fiction. Ils établissent une cartographie de ce mouvement, depuis son origine jusqu'à son évolution, basé sur leur pratique.
+
+D'une autre part, un autre appui théorique important est celui des chercheurs du Near Future Laboratory, et notamment le travail de Nicolas Nova. Cet ethnologue, chercheur et professeur à l'université de Genève développe dans plusieurs ouvrages et conférences une pensée liée aux nouveaux imaginaires sous la forme du design fiction. Avec le Near Future Laboratory, il produit aussi plusieurs projets auxquels [on s'intéressera].
+*Smart Frictions* --> Nicolas Nova
+*An ethnography of the possible*
+use design fiction to show the consequences of social and technological changes 
+
+
+
+#####Dunne & Rabby - Spymaker (2007)
+
+*Spymaker* est un projet des designers Dunne & Rabby, réalisé en 2007 à l'occasion de l'exposition *The Science of ...?*. En partant du principe que les caméras de surveillance ne cesseront de s'accroître aux Royaume-Unis d'ici les prochaines années, les designers anglais imaginent une muselière connectée qui, une fois posée sur le chien, lui permettra, grâce à son odorat, de repérer les espaces encore vierges de vidéo-surveillance. 
+
+Ce scénario fictif, dans lequel la population tente d'échapper aux regards des caméras, est une réponse à la demande des commissaires d'expositions ayant pour but de faire réfléchir et faire débattre de jeunes anglo-saxons sur la question de la surveillance dans l'espace public. 
+
+Ce projet m'intéresse tout particulièrement car il met en lumière les différents aspects du design fiction cités plus haut : la création d'un scénario **probable** permettant de se projeter dans un imaginaire vraisemblable, la volonté de susciter le débat, ici chez des enfants, et la création d'un objet tangible. Ce prototype, unique et non commercialisé, est d'une certaine manière un *prétexte* à discussion. Il est l'élément physique, formel, qui *active* la fiction dans laquelle il évolue. Le concept de *"prototype diégétique"*, tel qu'énoncé par l'écrivain de science-fiction Bruce Sterling, résonne tout particulièrement avec ce projet : il s'agit de la mise en oeuvre d'objets qui sont **cohérent** avec la fiction mise en place par les créateurs (la diégèse). Ces prototypes ne sont pas nécessairement fonctionnels (ils ne le sont pas dans la plupart des cas). Ils servent uniquement de support au débat.
+
+Le projet de Dunne & Rabby est une réponse [adjectif] à un danger potentiel, déjà perçu aujourd'hui. A travers cet objet, les designers nous disent : "à ce rythme, il est probable que ce genres d'objets existent dans un futur proche ; est-ce un futur souhaitable ?". A l'inverse du design "traditionnel", les objets conçus dans le cadre du design fiction interrogent, ils ne répondent plus à un problème précis. Ou plutôt, ils répondent à des problèmes qui n'existent pas encore.
+
+
+#####Near Future Laboratory - TBD Catalog (2014)
+
+> Its design fiction content is a bit new and weird. It portrays a different kind of future than you might have been used to. This is not your near future of superlative Silicon Valley exuberance where you happily 3D-print a perfect set of lease-licensed Opinel steak knives or blissfully commute to work in your fascistically sleek Google-powered, chem-battery fueled autonomous vehicles. Nor is this the abysmal near future where you huddle in the smoldering foxholes of apocalyptic ruin. TBD Catalog runs through the middle. It is neither extreme. It is a design fiction about a normal, ordinary everyday near future.
+
+> where everything is connected to everything — whatever that means
+
+
+> But, Design Fiction was never just about speculation, nor only about creating film and video representations using green screen special effects and planar tracking plug-ins. More importantly, whatever form or genre of representation one uses, Design Fiction is about creating provocations, about prodding ideas to make them thorough, considered, alive and in-the-world. It is about activating the imagination, providing seeds of inspiration and insight. Design Fiction is about shifting one’s sense of what is possible by making the extraordinary feel ordinary.
+
+
+#####Near Future Laboratory - A Digital Tommorow
+Un autre projet du NFL, un court-métrage intitulé A Digital Tommorow, trouve sa place dans une pratique du design fiction. Bien que ne créant pas à proprement parlé des objets, le NFL tente ici de faire un inventaire de gestes "d'un futur proche" ; des gestes de la vie courante qui sont susceptibles d'apparaître et de s'immiscer prochainement dans notre vie. En se basant sur les tendances technologiques et en spéculant sur les appareils et les modes de vies qui seront les notres, le projet A digital Tommorow créer un répértoire de gestes incongrus, étranges mais banals ; des gestes "du futur", qui ne sont pas les mouvements de bras précis et efficaces d'un Tom Cruise dans Minority Report, mais plutôt des gestes qui rappele que les objets technologiques ne fonctionnent pas toujours comme prévu. Un homme qui se frappe la tête pour faire fonctionner son casque cérébral, un couple qui tournent leurs smartphones dans les airs pour les recharger, ou encore une femme qui prend la pose plusieurs fois devant son rétroviseur afin d'activer la reconnaissance faciale qui lui permettra de démarrer sa voiture.
+
+
+#####Markus Kison - Vanity Ring (2007)
+
+#####DISNOVATION.ORG
+Concept de disnovation (introduit par Chatonsky), repris au sein d'un collectif / exposition --> interroge l'omniprésence de l'innovation technologique au sein de la société occidentale.
