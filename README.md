@@ -1,4 +1,3 @@
-</style>
 <h1 align=center>Design Fiction, à la recherche des nouveaux imaginaires</h1>
 
 Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
@@ -27,16 +26,26 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ### Références
 ###### Oeuvres
 - **Vanity Ring** - Markus Kison - 2007
-<img align=center style="margin-top: 10px">![Spymaker](http://www.markuskison.de/img/proto_0.jpg)</img>
+<img align=center style="margin-top: 10px">![Vanity Ring](http://www.markuskison.de/img/proto_0.jpg)</img>
 
 - **Spymaker** - Dunne & Rabby - 2007
 <img align=center>![Spymaker](http://www.dunneandraby.co.uk/img/projects/large/spymaker-0.jpg)</img>
 
 - **[The TBD Catalog](http://tbdcatalog.com/)** - The Near Future Laboratory - 2014
-<img align=center>![Spymaker](http://tbdcatalog.com/img/sample2.jpg)</img>
+<img align=center>![Catalog of Near Future](http://tbdcatalog.com/img/sample2.jpg)</img>
 
 - **[Curious Rituals](http://curiousrituals.nearfuturelaboratory.com/)** - The Near Future Laboratory - 2015
-<img align=center>![Spymaker](http://curiousrituals.nearfuturelaboratory.com/img/book/page1.jpg)</img>
+<img align=center>![Curious Rituals](http://curiousrituals.nearfuturelaboratory.com/img/book/page1.jpg)</img>
+
+- **[NaturePod](https://futuryst.blogspot.be/2016/05/naturepod.html)** - Stuart Candy - 2016
+<img align=center>![NaturePod](https://4.bp.blogspot.com/-GopL07_-7c0/VmsfqNAKcfI/AAAAAAAAGno/7GR4hTtCcCo/s640/1512_Naturepod_Stuart-5757.jpg)</img>
+
+- **[Autonomous Trap](https://vimeo.com/208642358l)** - James Bridle - 2017
+<img align=center>![Autonomous Trap](http://cdn.trendhunterstatic.com/thumbs/autonomous-trap-001.jpeg)</img>
+
+- **[1-888 Futures](https://futuryst.blogspot.be/2015/09/1-888-futures.html)** - Stuart Candy - 2015
+<img align=center>![Autonomous Trap](http://1888futures.com/wp-content/uploads/2015/09/checking-888-packages.jpg)</img>
+
 
 
 ###### Expositions
