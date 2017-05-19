@@ -71,6 +71,10 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - **[Blind Camera](http://www.pohflepp.net/Work/Buttons)** - DISNOVATION.ORG - 2015
 <img align=center>![Blind Camera](http://payload291.cargocollective.com/1/16/528246/8139690/Buttons-Sascha-Pohflepp-2006-5_2000.jpg)</img>
 
+---
+- **[Back To The Futures](http://chriswoebken.com/Back-to-the-Futures)** - Chris Woebken & Natalie Jeremijenko - 2009
+<img align=center>![Blind Camera](http://payload379.cargocollective.com/1/0/14237/9896796/3815114372_6346da3d1e_o_638.png)</img>
+
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
 - **[Un Institut temporaire des futurs](https://www.muhka.be/programme/detail/660-a-temporary-institute-of-futures-studies)** - MUHKA Anvers - 2017
@@ -88,6 +92,7 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [x] 📄 *[Design Fiction : Le futur, c'est plus ce que c'était](https://usbeketrica.com/article/design-fiction-le-futur-c-est-plus-ce-que-c-etait)*, Usbek & Rica, 2017
 - [x] 📄 *[Le futur sera t-il multicolore ?](https://usbeketrica.com/article/le-futur-sera-t-il-multicolore)*, Camille Brunel
 - [x] 📄 *[Design Fiction, entre salves disruptives et lueurs d’espoir](http://strabic.fr/Design-Fiction-Sternberg-Press)*, Loup Cellard - Strabic, 2017
+- [ ] 📄 *[Design Friction Manifesto](http://design-friction.com/#/pages/why)*, Design Friction, 2015
 
 ###### Société
 - [ ] 📖 *Aux sources de l'utopie numérique*, Fred Turner, 2012
@@ -103,29 +108,35 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [ ] 📖 *Manifeste Cyborg*, Donna Haraway
 - [ ] 📖 *La société technicienne*, Jacques Ellul, 1970
 - [ ] 📄 *[La survie du monde est possible](https://usbeketrica.com/article/la-survie-du-monde-est-possible)*, Usbek & Rica, 2017
-- [ ] 📖 *[Le futur n'existe pas]*, Alain Bublex + Elie During, Editions B42, 2016
-- [ ] 📄 *[Crap Futures](http://crapfutures.tumblr.com/)*, Blog
+- [ ] 📖 *Le futur n'existe pas*, Alain Bublex + Elie During, Editions B42, 2016
+- [x] 📄 *[Crap Futures](http://crapfutures.tumblr.com/)*
 
 ###### Science-Fiction
 - [ ] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime)
+- [ ] 📖 *La main gauche de la nuit*, Ursula Leguin, 1969
+- [ ] 📖 *L'autre moitié de l'homme*, Johanna Reus, 1975
+
 ---
 
 ### Filmographie
-###### Courts-métrages
-- [x] [Hyper-reality](https://vimeo.com/166807261)
-
 ###### Longs-métrages
 
+###### Courts-métrages
+- [x] *[Hyper-reality](https://vimeo.com/166807261)*
+
+
 ###### Documentaires
-- [x] [Silicon Valley, la révolution des hackers](https://www.rtbf.be/culture/pop-up/detail_silicon-valley-la-revolution-des-hackers-sur-arte?id=9588552)
+- [x] *[Silicon Valley, la révolution des hackers](https://www.rtbf.be/culture/pop-up/detail_silicon-valley-la-revolution-des-hackers-sur-arte?id=9588552)*
+- [x] *HyperNormalisation*, Alan Curtis, 2016
 
 ###### Séries
-- [ ] Silicon Valley
-- [x] Black Mirror
+- [ ] *Silicon Valley*
+- [x] *Black Mirror*
+- [x] *West World*, HBO, 2017
 
 ###### Conférences
-- [ ] [Smart Frictions](https://vimeo.com/160083047), Nicolas Nova & Simone Rebadaungo, 2016
-- [ ] [Design Fiction](https://www.youtube.com/watch?v=LQFKcS2zr6w), Nicolas Nova, 2016
-- [ ] [Pour un pragmatisme spéculatif](), Isabelle Stengers & Didier Debaise, 2016
-- [x] [Narration Speculative](https://vimeo.com/63974741), Isabelle Stengers, 2013
-- [x] [Story for Earthly Survival](https://player.vimeo.com/video/210607302), Donna Haraway, 2017
+- [ ] *[Smart Frictions](https://vimeo.com/160083047)*, Nicolas Nova & Simone Rebadaungo, 2016
+- [ ] *[Design Fiction](https://www.youtube.com/watch?v=LQFKcS2zr6w)*, Nicolas Nova, 2016
+- [ ] *[Pour un pragmatisme spéculatif](https://player.vimeo.com/video/203092159)*, Isabelle Stengers & Didier Debaise, 2016
+- [x] *[Narration Speculative](https://vimeo.com/63974741)*, Isabelle Stengers, 2013
+- [x] *[Story for Earthly Survival](https://player.vimeo.com/video/210607302)*, Donna Haraway, 2017
