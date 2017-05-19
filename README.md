@@ -109,10 +109,11 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [ ] 📖 *La société technicienne*, Jacques Ellul, 1970
 - [ ] 📄 *[La survie du monde est possible](https://usbeketrica.com/article/la-survie-du-monde-est-possible)*, Usbek & Rica, 2017
 - [ ] 📖 *Le futur n'existe pas*, Alain Bublex + Elie During, Editions B42, 2016
+- [ ] 📖 [*Whiplash: How to Survive Our Faster Future*](https://www.media.mit.edu/publications/whiplash-how-to-survive-our-faster-future/), Ito Joi + Jeff Howe. Grand Central Publishing, 2016.
 - [x] 📄 *[Crap Futures](http://crapfutures.tumblr.com/)*
 
 ###### Science-Fiction
-- [ ] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime)
+- [ ] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime), Vincent Reuss, 2016
 - [ ] 📖 *La main gauche de la nuit*, Ursula Leguin, 1969
 - [ ] 📖 *L'autre moitié de l'homme*, Johanna Reus, 1975
 
@@ -120,6 +121,8 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
 ### Filmographie
 ###### Longs-métrages
+- [x] *Minority Report*, Steven Spielberg, 2002
+- [x] *2001, l'odysée de l'espace*, Stanley Kubrick, 1968
 
 ###### Courts-métrages
 - [x] *[Hyper-reality](https://vimeo.com/166807261)*
