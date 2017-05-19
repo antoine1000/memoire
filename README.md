@@ -66,7 +66,10 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - **[Predictive Art Bot](http://artbot.space/)** - DISNOVATION.ORG - 2015
 <img align=center>![PAB](http://artbot.space/img/PAB_MAP_EN2.jpg)</img>
 
+---
 
+- **[Blind Camera](http://www.pohflepp.net/Work/Buttons)** - DISNOVATION.ORG - 2015
+<img align=center>![Blind Camera](http://payload291.cargocollective.com/1/16/528246/8139690/Buttons-Sascha-Pohflepp-2006-5_2000.jpg)</img>
 
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
@@ -79,17 +82,25 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
 ### Bibliographie
 ###### Art & Design
-- [ ] *Speculative Everything*, Anthony Dunne et Fionna Rabby, 2014
-- [x] *Futurs: la panne des imaginaires ?*, Nicolas Nova, 2015
-- [ ] *Design Fiction : A short essay on design, science, fact and fiction*, Julian Bleeker, 2009
+- [ ] 📖 *Speculative Everything*, Anthony Dunne et Fionna Rabby, 2014
+- [x] 📖 *Futurs: la panne des imaginaires ?*, Nicolas Nova, 2015
+- [ ] 📖 *Design Fiction : A short essay on design, science, fact and fiction*, Julian Bleeker, 2009
+- [x] 📄 *[Design Fiction : Le futur, c'est plus ce que c'était](https://usbeketrica.com/article/design-fiction-le-futur-c-est-plus-ce-que-c-etait)*, Usbek & Rica, 2017
+- [x] 📄 *[Le futur sera t-il multicolore ?](https://usbeketrica.com/article/le-futur-sera-t-il-multicolore)*, Camille Brunel
 
 ###### Société
-- [ ] *Aux sources de l'utopie numérique*, Fred Turner, 2012
-- [x] *Pour tout résoudre, cliquez ici*, Evgeny Morozov, 2014
+- [ ] 📖 *Aux sources de l'utopie numérique*, Fred Turner, 2012
+- [x] 📖 *Pour tout résoudre, cliquez ici*, Evgeny Morozov, 2014
+- [x] 📖 *The United States Of Google*, Götz Hamann + Khuê Pham + Heinrich Wefing, 2015
+- [ ] 📄 *[Les ennemis de la machine](https://usbeketrica.com/article/les-ennemis-de-la-machine)*, Blaise Mao, 2015
+- [ ] 📄 *[Le futur est t-il devenu minable ?](https://usbeketrica.com/article/pokemon-go-selfie-stick-google-car-le-futur-est-il-devenu-minable), Usbek & Rica, 2016*
+- [x] 📄 *Pourquoi le futur a un gout de javel*, Blaise Mao, 2014
+- [x] 📄 *[Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=twb)*, The Atlantic, 2017
 
 ###### Philosophie
-- [ ] *Manifeste Cyborg*, Donna Haraway
-- [ ] *La société technicienne*, Jacques Ellul, 1970
+- [ ] 📖 *Manifeste Cyborg*, Donna Haraway
+- [ ] 📖 *La société technicienne*, Jacques Ellul, 1970
+- [ ] 📄 *[La survie du monde est possible](https://usbeketrica.com/article/la-survie-du-monde-est-possible)*, Usbek & Rica, 2017
 
 ###### Science-Fiction
 
