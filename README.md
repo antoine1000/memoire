@@ -71,6 +71,9 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
 - **[Un Institut temporaire des futurs](https://www.muhka.be/programme/detail/660-a-temporary-institute-of-futures-studies)** - MUHKA Anvers - 2017
+- **[Digital Shifts](http://2017.mappingfestival.com/fr/events/disnovation-org)** - Mapping Festival de Genève - 2017
+- **[Tommorows - Urban fictions for possible futures](http://www.sgt.gr/eng/SPG1757/)** - Diplareios Schoo d'Athènes - 2017
+
 
 ---
 
@@ -78,8 +81,10 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ###### Art & Design
 - [ ] *Speculative Everything*, Anthony Dunne et Fionna Rabby, 2014
 - [x] *Futurs: la panne des imaginaires ?*, Nicolas Nova, 2015
+- [ ] *Design Fiction : A short essay on design, science, fact and fiction*, Julian Bleeker, 2009
 
 ###### Société
+- [ ] *Aux sources de l'utopie numérique*, Fred Turner, 2012
 - [x] *Pour tout résoudre, cliquez ici*, Evgeny Morozov, 2014
 
 ###### Philosophie
@@ -97,6 +102,7 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ###### Longs-métrages
 
 ###### Documentaires
+- [x] [Silicon Valley, la révolution des hackers](https://www.rtbf.be/culture/pop-up/detail_silicon-valley-la-revolution-des-hackers-sur-arte?id=9588552)
 
 ###### Séries
 - [ ] Silicon Valley
