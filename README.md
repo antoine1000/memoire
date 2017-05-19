@@ -68,12 +68,12 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
 ---
 
-- **[Blind Camera](http://www.pohflepp.net/Work/Buttons)** - DISNOVATION.ORG - 2015
+- **[Blind Camera](http://www.pohflepp.net/Work/Buttons)** - Sascha Pohflepp - 2009
 <img align=center>![Blind Camera](http://payload291.cargocollective.com/1/16/528246/8139690/Buttons-Sascha-Pohflepp-2006-5_2000.jpg)</img>
 
 ---
 - **[Back To The Futures](http://chriswoebken.com/Back-to-the-Futures)** - Chris Woebken & Natalie Jeremijenko - 2009
-<img align=center>![Blind Camera](http://payload379.cargocollective.com/1/0/14237/9896796/3815114372_6346da3d1e_o_638.png)</img>
+<img align=center>![Back To The Futures](http://payload379.cargocollective.com/1/0/14237/9896796/3815114372_6346da3d1e_o_638.png)</img>
 
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
