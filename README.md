@@ -87,6 +87,7 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [ ] 📖 *Design Fiction : A short essay on design, science, fact and fiction*, Julian Bleeker, 2009
 - [x] 📄 *[Design Fiction : Le futur, c'est plus ce que c'était](https://usbeketrica.com/article/design-fiction-le-futur-c-est-plus-ce-que-c-etait)*, Usbek & Rica, 2017
 - [x] 📄 *[Le futur sera t-il multicolore ?](https://usbeketrica.com/article/le-futur-sera-t-il-multicolore)*, Camille Brunel
+- [x] 📄 *[Design Fiction, entre salves disruptives et lueurs d’espoir](http://strabic.fr/Design-Fiction-Sternberg-Press)*, Loup Cellard - Strabic, 2017
 
 ###### Société
 - [ ] 📖 *Aux sources de l'utopie numérique*, Fred Turner, 2012
@@ -96,14 +97,17 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [ ] 📄 *[Le futur est t-il devenu minable ?](https://usbeketrica.com/article/pokemon-go-selfie-stick-google-car-le-futur-est-il-devenu-minable), Usbek & Rica, 2016*
 - [x] 📄 *Pourquoi le futur a un gout de javel*, Blaise Mao, 2014
 - [x] 📄 *[Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=twb)*, The Atlantic, 2017
+- [x] 📖 *[La Machine est ton Seigneur et ton Maître](https://medium.com/@tohu_bohu/la-machine-est-ton-seigneur-et-ton-ma%C3%AEtre-16742002510d)*, Yang, Jenny Chan, Xu Lizhi + Celia Izoard, 2015
 
 ###### Philosophie
 - [ ] 📖 *Manifeste Cyborg*, Donna Haraway
 - [ ] 📖 *La société technicienne*, Jacques Ellul, 1970
 - [ ] 📄 *[La survie du monde est possible](https://usbeketrica.com/article/la-survie-du-monde-est-possible)*, Usbek & Rica, 2017
+- [ ] 📖 *[Le futur n'existe pas]*, Alain Bublex + Elie During, Editions B42, 2016
+- [ ] 📄 *[Crap Futures](http://crapfutures.tumblr.com/)*, Blog
 
 ###### Science-Fiction
-
+- [ ] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime)
 ---
 
 ### Filmographie
