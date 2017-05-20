@@ -77,9 +77,17 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ---
 
 - **[HoneyTrap](http://www.thomasthwaites.com/honeytrap/)** - Thomas Twhaites + Steven Ounanian - 2010
-<img align=center>![HoneyTrap](http://www.thomasthwaites.com/folio5/wp-content/uploads/2010/09/stolen.jpg)</img>
+<img align=center>![HoneyTrap](http://www.thomasthwaites.com/folio5/wp-content/uploads/2010/09/phone-saddle.jpg)</img>
 
 ---
+
+- **[Living History](http://www.thomasthwaites.com/living-history/)** - Thomas Twhaites - 2017
+<img align=center>![Living History](http://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/20160215_205323.jpg)</img>
+
+---
+
+- **[HYPER-REALITY](https://vimeo.com/166807261)** - Keiichi Matsuda - 2016
+<img align=center>![HYPER-REALITY](http://hyper-reality.co/assets/HQ_images/hyper-reality_03.jpg)</img>
 
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
@@ -133,7 +141,7 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - [x] *2001, l'odysée de l'espace*, Stanley Kubrick, 1968
 
 ###### Courts-métrages
-- [x] *[Hyper-reality](https://vimeo.com/166807261)*
+- [x] *[Hyper-reality](https://vimeo.com/166807261)*, Keiichi Matsuda, 2016
 
 
 ###### Documentaires
