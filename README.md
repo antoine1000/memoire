@@ -32,7 +32,6 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 ---
 
 - **[Spymaker](http://www.dunneandraby.co.uk/content/projects/73/0)** - Dunne & Rabby - 2007
-
 <img align=center>![Spymaker](http://www.dunneandraby.co.uk/img/projects/large/spymaker-0.jpg)</img>
 
 ---
@@ -75,6 +74,13 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - **[Back To The Futures](http://chriswoebken.com/Back-to-the-Futures)** - Chris Woebken & Natalie Jeremijenko - 2009
 <img align=center>![Back To The Futures](http://payload379.cargocollective.com/1/0/14237/9896796/3815114372_6346da3d1e_o_638.png)</img>
 
+---
+
+- **[HoneyTrap](http://www.thomasthwaites.com/honeytrap/)** - Thomas Twhaites + Steven Ounanian - 2010
+<img align=center>![HoneyTrap](http://www.thomasthwaites.com/folio5/wp-content/uploads/2010/09/stolen.jpg)</img>
+
+---
+
 ###### Expositions
 - **[Futurs Déviants](http://espacevirtuel.jeudepaume.org/futurs-non-conformes-3-3088/)** - Espace Virtuel du Jeu de Paume - 2017
 - **[Un Institut temporaire des futurs](https://www.muhka.be/programme/detail/660-a-temporary-institute-of-futures-studies)** - MUHKA Anvers - 2017
@@ -106,16 +112,18 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
 ###### Philosophie
 - [ ] 📖 *Manifeste Cyborg*, Donna Haraway
-- [ ] 📖 *La société technicienne*, Jacques Ellul, 1970
+- [ ] 📖 *La société technicienne*, Jacques Ellul, 1977
 - [ ] 📄 *[La survie du monde est possible](https://usbeketrica.com/article/la-survie-du-monde-est-possible)*, Usbek & Rica, 2017
 - [ ] 📖 *Le futur n'existe pas*, Alain Bublex + Elie During, Editions B42, 2016
 - [ ] 📖 [*Whiplash: How to Survive Our Faster Future*](https://www.media.mit.edu/publications/whiplash-how-to-survive-our-faster-future/), Ito Joi + Jeff Howe. Grand Central Publishing, 2016.
 - [x] 📄 *[Crap Futures](http://crapfutures.tumblr.com/)*
 
 ###### Science-Fiction
-- [ ] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime), Vincent Reuss, 2016
 - [ ] 📖 *La main gauche de la nuit*, Ursula Leguin, 1969
 - [ ] 📖 *L'autre moitié de l'homme*, Johanna Reus, 1975
+- [x] 📄 [L'humanité mise en boites ou la dystopie du techno cocon ultime](https://usbeketrica.com/article/l-humanite-mise-en-boites-ou-la-dystopie-du-techno-cocon-ultime), Vincent Reuss, 2016
+- [x] 📖 *La Zone du dehors*, Alain Damasio, Cylibris, 1999
+- [ ] 📖 *Aucun souvenir assez solide*, Alain Damasio, La Volte, 2012
 
 ---
 
