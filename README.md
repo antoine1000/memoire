@@ -3,10 +3,14 @@
 Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
 ### Sommaire
-###### Intoduction
+###### Introduction
 - Constat — L'avenir aurait t-il un goût de déjà vu ?
 - Problématiques — Comment peut-on renouveller les imaginaires du futur ? 
 - Objectifs — Donner des éléments de réponses sous le prisme d'une pratique artistique, le *design fiction*
+
+###### Un futur à définir [EN CHANTIER 🚧]
+- Une brève définition du futur
+- Rétro-futur
 
 ###### Les utopies Californiennes
 - Silicon Valley : une certaine vision de l'avenir
@@ -14,12 +18,11 @@ Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 - Le *futur* sous le signe de l'innovation
 
 ###### Le design fiction
-- Le *design fiction*
-- Le geste spéculatif
-
-###### Un futur à définir
-- Une brève définition du futur
-- C'est quoi "*les imaginaires*" ?
+- Histoire et définition
+- Quels problématiques pour ce mouvement ?
+- Etudes de projets/d'oeuvres
+- Les pensées spéculatives (geste spéculatif...)
+- Une critique du design critique ?
 
 ---
 
