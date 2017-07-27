@@ -1,14 +1,17 @@
-#Design spéculatif, la guerre des imaginaires
+# Design spéculatif, la guerre des imaginaires
 
-##Problématique
-###**En quoi la pratique du design spéculatif est-elle un outil de réappropriation des imaginaires du futur ?**
+---
 
-#####En quoi ?
+## Problématique
+
+### **En quoi la pratique du design spéculatif est-elle un outil de réappropriation des imaginaires du futur ?**
+
+##### En quoi ?
 - quels sont les éléments qui font dire que...
 - de quelles manières, dans quelle mesure ?
 - suppose des arguments, des preuves : car **on affirme** quelque chose!
 
-#####Pratique du design spéculatif
+##### Pratique du design spéculatif
 - une pratique = qui ne s’arrête pas à la simple spéculation, qui tend, qui conduit à l’action, qui s’occupe de **l’application concrète** des choses
 - design spéculatif : définir chacun des termes / puis *design+spéculatif* = ambivalence intéressante (concret+théorie)
 - d'où **émerge** cette pratique ? contexte/époque
@@ -16,11 +19,11 @@
 - **définir** cette pratique : en quoi consiste la **méthodologie** ?
 - donner des **exemples** qui font écho à **la problématique**
 
-#####Outil de réappropriation
+##### Outil de réappropriation
 - outil = instrument pour réaliser une action : quelle action ? c'est aussi un **moyen**, ce qui permet d'obtenir un résultat, d'agir sur quelque chose = la pratique du design spéculatif comme moyen de réappropriation des futurs
 - la réappropriation suppose une **usurpation préalable** : devenu la propriété de quelqu'un. Qui s'est approprié les imaginaires ? se réapproprier, c'est **reprendre possession** [des images du futur]
 
-#####Imaginaires du futur
+##### Imaginaires du futur
 - dans quel **contexte** émergent ces imaginaires ?
 - que signifie "imaginaires" ?
 - comment donner une **définition du futur** ?
@@ -31,25 +34,27 @@ Le design spéculatif est le fil rouge, le sujet principal du mémoire. Les text
 
 ---
 
-#PLAN
+# PLAN
 
-###Introduction : Non au futur parfait !
+### Introduction : Non au futur parfait !
 - la génèse de ce mémoire : le déclencheur, l'intuition, l'interrogation de départ : **le futur a un goût de javel !**
 - qu'est ce qui **pose problème** dans ce constat ? futur aujourd'hui = une *certaine* vision de l'avenir
 - un mouvement qui s'oppose et entre en **concurrence** : le design spéculatif
 - problématique : **En quoi la pratique du design spéculatif est-elle un outil de réappropriation des imaginaires du futur ?**
-- annonce du plan : d'où vient le design spéculatif / panne des imaginaires + futur made in Silicon Valley / les 
+- annonce du plan : d'où vient le design spéculatif / panne des imaginaires + futur made in Silicon Valley / les contre-pouvoirs~alternatives
 
 
-###Naissance d'une pratique
+---
+
+### Naissance d'une pratique
 > le design traditionnel (ou *mainstream*) a sa part de responsabilité dans les problèmes de la société, et le design spéculatif peut permettre d'influencer cette pratique. s
 
-#####Aux sources du design radical
+##### Aux sources du design radical
 - historique rapide : archizoom/alchimia/memphis/superstudio -> pratique d'un design théorique, politisé et expérimental
 - quel contexte à ce moment là ? -> fonctionnalisme/modernité/capitalisme, critique de la part d'archizoom du *good design*
 - design & utopie (définir utopie) -- apport de la science fiction? (contexte culturel des années 60-70)
 
-#####Une pratique qui refait surface
+##### Une pratique qui refait surface
 - émergence du design spéculatif contemporain -> mouvement "design critique", remise en question de la pratique du design (dunne & rabby)
 - pratique qui vise à faire quoi ? (réponse avec speculative now) + penser les possibles (la "science fiction" du design) -> designers nourris des théories de Donna Haraway/Isabelle Stenger
 - pourquoi ce mouvement reprend forme aujourd'hui ?
@@ -58,19 +63,19 @@ Le design spéculatif est le fil rouge, le sujet principal du mémoire. Les text
 oui, mais quelles sont-elles, ces utopies ?
 articulation avec la seconde partie
 
-###Des imaginaires qui posent problèmes
+### Des imaginaires qui posent problèmes
 > Notre imaginaire du futur n’évolue plus. Il est le même que celui qu’on nous proposait il y a 60 ans. Nous sommes plongés dans un perpétuel « rétro-futur ». De plus, la Silicon Valley s'empare du concept de futur pour en faire quelque chose de désincarné et dangereux.
 
-#####La panne des imaginaires
+##### La panne des imaginaires
 - imaginaires qui tournent en rond
 - crise de la SF traditionnelle
 - sentiment d'atemporalité
 
-#####Le futur made in Silicon Valley
+##### Le futur made in Silicon Valley
 - version aseptisé du futur, les marques s'en emparent du concept "futur" (le futur sous forme de conférence TED)
 - dresser le tableau du futur made in silicon valley (confort/surveillance/abolition du hasard/injonction au bonheur)
 
-#####L'utopie solutionniste
+##### L'utopie solutionniste
 - le discours du solutionnisme technologique (Evgeny Morozov)
 - le populisme technologique (Aryel Kirou)
 - smart design + internet of shit = en fait, ce futur ne fonctionne pas comme prévu
@@ -79,24 +84,26 @@ articulation avec la seconde partie
 d'où l'importance d'**engager une résistance** face à ces visions du futur
 articulation avec la partie suivante
 
-###La guerre des imaginaires est ouverte
+---
+
+### La guerre des imaginaires est ouverte
 > Tour d'horizon du mouvement spéculatif : méthodologie, exemples et théorie. Focus sur un mouvement en particulier qui se distingue au sein de ce champ du design : disnovation
 
-#####Savoir dire non
+##### Savoir dire non
 - le rejet de cette vision, plusieurs practiciens font des **manifestes** : accelerationism / additivism / A/B Dunne & Rabby / désincarcérer le futur Alain Damasio...etc
 - pour combattre, il faut **des armes**, **des outils** : le **spéculatif comme outil de pensée alternative**
 
-#####Le champ des possibles
+##### Le champ des possibles
 - se base sur une **méthodologie** théorisée (dunne & rabby + james bridle) -> utilisation de la **fiction**, support au **débat**...etc
 - compléter avec la conférence Nicolas Nova sur le médium design fiction
 - Near Future Design
 
-#####Le geste spéculatif
+##### Le geste spéculatif
 - La pensée spéculative, qu'est ce que c'est, d'où ça vient (Haraway/Stenger) -> décrire rapidement le *geste spéculatif*, en quoi le design spéculatif puise dans ces théories dans sa quêtes des imaginaires, comment peuvent-ils s'influencer
 
 - en quoi est-ce nécessaire d'inventer et de voir de nouvelles images ? (en tant que practicien) -> point de vue personnel, qu'est ce que ça apporte dans mon travail ? pour quelles raisons ça m'intéresse ?
 
-###Conclusion : Pour des futurs désobéissants
+### Conclusion : Pour des futurs désobéissants
 - répondre à la problématique de départ : en quoi le design spéculatif est un outil de réappropriation du futur ? -> réponses = méthodologie/exemples/nécessité/résultat concret
 - les limites du design spéculatif (méthodologie ravalée par le capitalisme ? succombe à l'effet de mode) et le futur de ce mouvement (débat speculative now)
 - exposer ma vision des choses : concrétiser les propositions, de la fiction à la réalité, créer des futurs positifs, passer de la pensée *en contre* à la pensée *en pour* (ne plus dire **non au futur parfait**, mais **oui au futur atypique**)
