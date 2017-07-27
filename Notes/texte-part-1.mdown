@@ -1,0 +1,104 @@
+
+> « Le futur est un laboratoire sûr et stérile pour tester des idées, c’est un moyen de penser la réalité, une méthode.» Ursula Le Guin
+
+- Les imaginaires (définition Bachelard)
+- La panne des imaginaires du futur (Nicolas Nova)
+- Le sentiment d'atemporalité (ITW Bruce Sterling Nicolas Nova) = difficulté de s'imaginer les futurs
+
+- Le problème (tel que JE l'aborde) : pourquoi le futur a un goût de javel (Futur Silicon Valley + innovation/technologie --> design)
+- L'émergence du design speculatif/fiction (quel contexte ? Pourquoi et comment ? Quels envies, pourquoi cette impulsion des designers ?)
+
+puissance d'évocation
+design spéculatif = le champ du design qui explore l'avenir
+ethics by design
+silicon valley fabrique des technologies comme si elle y était contrainte (on ne peut pas arrêter le progrès)
+
+
+----
+
+### La guerre des imaginaires
+
+> « Quand j’étais enfant, il y a trente ans, le futur était très lointain – de même que le nouveau millénaire. Des dates telles que 1984 et 2001 paraissaient vraiment distantes. Mais ce qui est curieux, c’est que depuis tout ce temps, le futur auquel les gens pensent n’a pas changé de millénaire. C’est comme si l’avenir s’était rabougri, année après année, pendant toute ma vie.
+
+On désigne communément d'*imaginaire* tout ce qui existe dans l'imagination, c'est à dire la production de représentations par l'esprit. L'imagination n'est pas limité à la reproduction d'images mentales déjà existante (le fait de se représenter l'image d'un objet par exemple). Elle possède également une puissance de création sans limite, par la combinaison des idées ou l'anticipation des évènements. 
+
+Gaston Bachelard, philosophe et épistémologue français, parle de l'imagination comme une "fonction de l'irréel", c'est à dire comme outil de création libre, puissant, utile et positif. L'imagination permet de penser ce qui n'est pas encore advenu, ce qui est à venir et ce qui est possible. Les *imaginaires*, au pluriel, seraient alors une synthèse de ces répresentations, une collection d'images formant un tableau décrivant une idée, un évènement ou une chose. 
+
+Les imaginaires du futur consisteraient donc en un ensemble d'images ayant pour même dynamique les visions prospectives et les représentations d'un temps à venir, ainsi que les discours, les représentations et les mythes qui entourent les objets technologiques, façonnant un univers riche et complexe qu'il s'agit de décrypter.
+
+Si les designers spéculatifs questionnent dans leur travail les discours et les images du futur, il s'agit dans un premier temps de définir de quelles images nous parlons. Construire de nouveaux imaginaires implique l'existence d'imaginaires déjà en place, qui prédominent sur la représentation collective du futur. De quoi [ces imaginaires] sont-ils fait ?
+
+Nicolas Nova, ethnologue et chercheur[...], donne une première piste de réponse dans son livre *Futurs : la panne des imaginaires*. Selon lui, ces "images du futur" ont été en grande partie conçues dans les années 60 par la vague importante de littérature science-fictive, qui se développe fortement aux Etats-Unis, avec des auteurs comme Phillip K.Dick, Isaac Asimov ou Ray Bradbury. Ces récits forgent le *socle commun* d'une représentation du futur, décrivant des voitures volantes, des vaisseaux spatiaux, des machines toute puissantes prenant le contrôle sur l'Homme, des humains augmentés pouvant augmenter leur capacités physiques et cognitives grâce aux nano-puces dans le corps, évoluant aux seins de fictions futuristes le plus souvent dystopiques ou post-apocalyptiques. Ces futurs, ou ces *rétro-futurs* pourrait-t-on dire, (en tant que visions passées d'un futur qui ne s'est jamais produit) semblent, d'après Nova, insister à notre époque. En effet, ces scénarios sont encore largement exploités au cinéma, dans les publicités ou des les projets urbains. 
+
+> [...] la science-fiction a perdu son influence comme force d’inspiration sur le « futur », et plus particulièrement pour inspirer la création technologique et ses imaginaires. Il suffit de regarder les représentations du futur que l’on nous sert régulièrement dans les médias grand public ou dans les publicités pour des objets technologiques. Les inévitables gratte-ciel qui accompagnent les affiches des fabricants automobiles, le pseudo-monorail présenté sur les plaquettes du projet du Grand Paris, le retour sans fin des lunettes et casques de réalité virtuelle, les robots humanoïdes dont on nous vante l’arrivée prochaine, en constituent de bons exemples. Ils montrent au mieux une perpétuation des mythes, au pire, une panne des imaginaires.
+
+Cette panne des imaginaires serait le symptôme d'un ressassement incessant de clichés autour du futur, rendant difficile notre capacité à se représenter d'autres images que celles-ci. Ces images étouffent tellement notre imagination que nous semblons perdre notre capacité à produire des alternatives. D'une certaine manière, on nous supplante nos imaginaires du futur.
+
+À cela s'ajoute une sensation étrange d'atemporalité, terme inventé par Bruce Sterling, auteur de science-fiction, pour désigner ce sentiment d'un futur qui se serait *dilué* dans le présent. 
+
+> Sterling explique ce caractère étrange par l’imbrication du passé et de l’avenir dans une sorte de présent fortement influencé par les technologies de l’information et de la communication. L’usage régulier du Web, des réseaux sociaux, de l’Internet mobile, de l’email, en permettant un accès en quasi temps-réel à une masse d’information considérable comprime selon lui notre horizon temporel. Ce qui annihile du coup tout élargissement du spectre temporel, en particulier vers l’avenir.
+
+Ce sentiment d'atemporalité 
+
+Je distingue, pour ma part, un problème qui soulève des interrogations plus grandes encore. Il semblerait que nous soyons nourris d'imaginaires du futurs concoctés par des entreprises aux pouvoirs toujours plus grands : Google, Apple, Facebook, Amazon, Microsoft. Ces géants du milieu technologique, tous implantés dans la région Californienne de la Silicon Valley, jouissent d'une visibilité accrue, d'une toute puissance financière et font l'objet d'un véritable culte.
+
+> Technology is the active human interface with the material world.
+
+>But the word is consistently misused to mean only the enormously complex and specialised technologies of the past few decades, supported by massive exploitation both of natural and human resources.
+
+>This is not an acceptable use of the word. "Technology" and "hi tech" are not synonymous, and a technology that isn't "hi," isn't necessarily "low" in any meaningful sense. 
+
+----
+
+Une seconde piste : la Silicon Valley reprend/fabriquent/s'emparent de ces utopies
+
+Problème donc : difficulté à imaginer le futur autrement qu'à travers des clichés de la culture populaire, futur javelisé par la S.Valley (Usbek & Rica), et sentiment de futur permanent (Bruce Sterling) rendant le présent indissociable du futur
+
+Comment le design speculatif peut réapproprier nos imaginaires du futurs ?
+Quels alternatives les designers peuvent proposer face à la culture de l'innovation ?
+
+Sommes nous condamné/soumis à un futur aseptisé ? Les imaginaires du futur ont-ils été standardisés ? Futur ~ Technologie : Quelles sont les visions d'avenir des entreprises technologiques de la Silicon Valley ?
+
+L'innovation technologque est-elle leader de la construction des imaginaires du futur ?
+
+le futur pitché sous la forme d'une conférence TED/d'une keynote
+> For decades, Silicon Valley has been imagining the future and pitching it to us as the definitive image of tomorrow. WIRED
+
+> What began as something spontaneous and unique has today become a parody of itself. What was exceptional and emergent in the realm of ideas has been bottled, packaged, and sold back to us over and over again. The whole TED vibe has come to resemble a sales pitch. TED ARTICLE
+
+
+Design Fiction *vs* Science Fiction --> **le design est plus proche des gens dans les usages**
+>The actors of speculative design are engaging in an interesting and critical way with technology and science (like artists do) but they are using a more **explicit language**, putting everything into a more recognisable framework, **in everyday life**, in society, in all kind of contexts. Their work engage with transport, furniture, new ways of dating, of consuming, etc. **Everybody is familiar with that**. (SPECULATIVE NOWa DEBATE)
+
+----
+
+### Harisson Discussion
+faire une définition de l'innovation
+articuler mon discours autour de mes exemples!
+choisir une série d'exemples qui concordent avec mon discours
+
+problème soulevé : un futur détenu par les leaders de l'innovation
+cette pratique (le design speculatif) remet en question cette domination, mais aussi une pratique du design (design critique, tendance particulière AU SEIN du mouvement)
+
+mettre en question la problematique de l'innovation
+ces fictions/projets de design speculatif s'activent en tant qu'**outil critique** des puissances en places (modèle/conventions/normes/domination/innovation/aseptisation)
+
+question du progrès, de l'innovation, modèle de la silicon valley --> amène un pouvoir --> ce pouvoir trace le futur (histoire : guerre froide...etc)
+chaque exemple (oeuvre, projet...) est une réponse qui permet au design fiction de s'activer en tant qu'outil critique
+comment le futur est généré
+
+**une oeuvre = un constat** ; à quoi elles contribuent ?
+
+il y a un hypnotisme narratif du futur
+silicon valley --> exerce une domination (pouvoir politique/financier/comportemental) --> lié au capitalisme
+
+---
+
+> The technology industry does have its own tradition of conceptual design in the form of  *Vision of the Future* video scenarios setting out future directions or promoting new corporate values but they are often very limited in their scope and vision. They usually feature **perfect worlds** for **perfect people** interacting perfectly with **perfect technologies**.
+
+Références Strange Design
+>  Gijs Bakker, Jurgen Bey, Pieke Bergmans, Bless, Jan Boelen, Elio Caccavale, Florence Doléac, Anthony Dunne & Fiona Raby, Didier Faustino, Catherine Geel, Ugo La Pietra, Mathieu Lehanneur, Luca Marchetti, Alessandro Mendini, Gianni Pettena, Stijn Ruys, Noam Toran
+
+> Paola Antonelli, The Atlas Group (1989–2004), Alex Coles, Anthony Dunne, James Dyer, Umberto Eco, Experimental Jetset, Vilém Flusser, Verina Gfader, Huib Haye van der Werf, Will Holder, Sophie Krier, Carrie Lambert-Beatty, Lucas Maassen, Valle Medina, Philippe Morel, Rick Poynor, Fiona Raby, Benjamin Reynolds, Hiroko Shiratori et Bruce Sterling.
+
+> Quatre moments de l’histoire du design ont été choisi : le Design Radical italien (à partir de 1967 – jusqu’à Alchimia et Memphis qui en constituent en quelque sorte une forme d’épilogue), le design conceptuel néerlandais des années 1990, le Critical Design anglais des années 2000, pour ouvrir sur la scène contemporaine (notamment en France).
