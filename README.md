@@ -2,6 +2,8 @@
 
 Mémoire réalisé dans le cadre de la seconde année de Master 2 à l'ERG (BE)
 
+> "Any sufficiently advanced technology is indistinguishable from magic."   –Arthur C. Clarke
+
 ### Sommaire
 ###### Introduction
 - Constat — L'avenir aurait t-il un goût de déjà vu ?

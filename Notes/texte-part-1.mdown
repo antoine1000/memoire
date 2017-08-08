@@ -1,3 +1,4 @@
+> Qui sait de quoi demain sera fait ? Peu importe au fond : le futur, même incertain, chacun en parle comme si son existence allait de soi. Il a pourtant tout d'un mirage si nous l'imaginons comme une région temporelle où se logerait d'avance tout ce qui aura eu lieu. Si il s'agit d'un présent simplement à venir, d'une vaste réserve de présent, en attente de réalisation, alors le futur n'existe pas et n'existera jamais. Aujourd'hui, il n'est pas encore; une fois réalisé, il ne sera plus à venir. Reste la grammaire des temps signalée par les conjugaisons du verbe. Mais ce futur là n'a pas grand chose à voir avec l'objet de nos espoirs et de nos craintes. L'avenir prédit ou promis, redouté ou rêvé. Entre le futur antérieur, qui n'est qu'un passé anticipé, et la forme vide du projet, qui n'est qu'une dimension de la conscience anticipatrice, comment donnera t-on au futur la consistence qu'il mérite ? - Alain Bublex et Elie During, Le futur n'existe pas
 
 > « Le futur est un laboratoire sûr et stérile pour tester des idées, c’est un moyen de penser la réalité, une méthode.» Ursula Le Guin
 
@@ -16,10 +17,11 @@ silicon valley fabrique des technologies comme si elle y était contrainte (on n
 
 ----
 
-### La guerre des imaginaires
+### La panne des imaginaires
 
 > « Quand j’étais enfant, il y a trente ans, le futur était très lointain – de même que le nouveau millénaire. Des dates telles que 1984 et 2001 paraissaient vraiment distantes. Mais ce qui est curieux, c’est que depuis tout ce temps, le futur auquel les gens pensent n’a pas changé de millénaire. C’est comme si l’avenir s’était rabougri, année après année, pendant toute ma vie.
 
+Une petite définition des imaginaires s'impose.
 On désigne communément d'*imaginaire* tout ce qui existe dans l'imagination, c'est à dire la production de représentations par l'esprit. L'imagination n'est pas limité à la reproduction d'images mentales déjà existante (le fait de se représenter l'image d'un objet par exemple). Elle possède également une puissance de création sans limite, par la combinaison des idées ou l'anticipation des évènements. 
 
 Gaston Bachelard, philosophe et épistémologue français, parle de l'imagination comme une "fonction de l'irréel", c'est à dire comme outil de création libre, puissant, utile et positif. L'imagination permet de penser ce qui n'est pas encore advenu, ce qui est à venir et ce qui est possible. Les *imaginaires*, au pluriel, seraient alors une synthèse de ces répresentations, une collection d'images formant un tableau décrivant une idée, un évènement ou une chose. 
@@ -102,3 +104,172 @@ Références Strange Design
 > Paola Antonelli, The Atlas Group (1989–2004), Alex Coles, Anthony Dunne, James Dyer, Umberto Eco, Experimental Jetset, Vilém Flusser, Verina Gfader, Huib Haye van der Werf, Will Holder, Sophie Krier, Carrie Lambert-Beatty, Lucas Maassen, Valle Medina, Philippe Morel, Rick Poynor, Fiona Raby, Benjamin Reynolds, Hiroko Shiratori et Bruce Sterling.
 
 > Quatre moments de l’histoire du design ont été choisi : le Design Radical italien (à partir de 1967 – jusqu’à Alchimia et Memphis qui en constituent en quelque sorte une forme d’épilogue), le design conceptuel néerlandais des années 1990, le Critical Design anglais des années 2000, pour ouvrir sur la scène contemporaine (notamment en France).
+
+
+---
+
+> « la Valley est un endroit où la grande promesse du capitalisme demeure encore pour beaucoup » article usbekrica technocritique
+
+> As Fredric Jameson famously remarked, it is now easier for us to imagine
+the end of the world than an alternative to capitalism. Yet alternatives are
+exactly what we need. We need to dream new dreams for the twenty-first
+century as those of the twentieth century rapidly fade. But what role can
+design play? - Speculative Everything
+
+TRADUCTION FR
+
+> Comme Fredric Jameson l'a très bien fait remarquer, il est désormais plus simple pour nous d'imaginer la fin du monde qu'une alternative au capitalisme. Pourtant, des alternatives, c'est exactement ce dont nous avons besoin. Nous devons créer de nouveaux rêves pour le 21eme siècle puisque ceux du 20eme s'évaporent. Quel rôle peut alors jouer le design ? - Dunne & Rabby, Speculative Everything
+
+> We believe that by speculating more, at all levels of society, and
+exploring alternative scenarios, reality will become more malleable and,
+although the future cannot be predicted, we can help set in place today
+factors that will increase the probability of more desirable futures
+happening.
+
+> 
+
+- pas intéressé par les prédictions technologiques, basés sur des signaux faibles: cela se révèle toujours faux en plus d'être une activité inutile
+- intéressé en revanche par "l'idée de futurs possibles, comme des outils permettant de mieux comprendre le présent" et débattre du genre de futur que veulent ou ne veulent pas les gens
+- méthodologie "what if", prend la forme de scénarios (d'où le terme design fiction)
+- ils ne disent pas comment doivent être les choses mais comment pourraient être les choses, aux spectateurs de compléter, d'imaginer la suite
+- intéressé par la culture spéculative (art, cinéma, littérature, sciences)
+- 
+
+
+Le design spéculatif agit comme un espace de réflexion sur la manière dont les choses pourraient être.
+
+especially nowadays, in the context of the new social, technological, media and economic conditions.
+
+raises awareness, questions, provokes action, initiates discussions and perhaps even offers some alternatives that are essential for the today’s world. 
+
+----
+#BEYOND RADICAL DESIGN?
+
+Le design radical des années 1960 et 1970 est une inspiration évidente pour Dunne & Rabby ;  comment l'esprit de l'époque, critique et provocant, peut être  réintroduit dans la pratique contemporaine ? ils questionnent cependant ce qui fait la rareté de ces mouvements critiques. Pourquoi les mouvements critiques et radicaux sont si peu nombreux en design ? Ils distinguent dans le cours de l'histoire des modifications majeures qui ont limité la pratique spéculative, la rendant plus compliquée et moins probable. 
+
+D'abord, le design s'est hyper-commercialisé durant les années 1980. Le modèle capitaliste néo-libéral triomphe à l'époque, et intègre bien entendu le design dans sa logique financière. Toute alternative qui ne se soumettrait pas à ce schéma économique est perçue comme instable, inintéressante et est inévitablement évacuée du système.
+
+Le contexte géo-politique du début des années 1990 confirme la tendance en donnant le capitalisme grand vainqueur : la destruction du mur de Berlin, la fin de la guerre froide et la chute de l'URSS signent la mort des modèles alternatifs. Le système capitaliste s'étend progressivement au monde entier comme modèle de pensée unique. Tout ce qui rentre en désaccord avec ce modèle est marginalisé, devient "irréel".
+
+Dunne & Rabby décrivent une société qui s'est "atomisée". Le monde est devenu extraordinairement complexe, et la société beaucoup plus individualiste. D'une "méga-utopie rêvée par une élite", nous sommes passés à des millions de minuscules utopies révé par autant d'individus.
+
+Pour toute une génération, les rêves se sont transformés en espoirs. Le "grand rêve social moderniste" s'évapore avec la prise de conscience écologique et le cruel rappel à l'ordre de la planète : nos ressources sont limités, la température augmente, l'éco-système est en danger. Nous ne rêvons plus, nous espérons seulement survivre à ces modifications profondes de notre environnement, qu'il aura assez d'eau et de nourriture pour chacun, que l'air et l'eau ne seront pas trop pollué.
+
+Mais les designers anglais terminent tout de même sur une note plus optimiste. Le crash financier de 2008 a aussi montré les limites du système capitaliste, et de nouvelles alternatives émergent de sursauts citoyens. La population a un désir de plus en plus fort de reprendre la main sur [le monde], à travers de nouvelles formes de gouvernance et de production (systèmes des communs par exemple), de système économique (bitcoin et blockchain)...
+
+Il est impossible de poursuivre la méthodologie employée par les designers visionnaires des années 1960 et 1970. Nous vivons aujourd'hui dans un monde très différent, mais nous pouvons raviver l'esprit de cette époque et développer de nouvelles méthodes adaptées au monde contemporain, pour rêver à nouveau.
+
+> It is impossible to continue with the methodology employed by the visionary designers of the 1960s and 1970s. We live in a very different world now but we can reconnect with that spirit and develop new methods appropriate for today’s world and once again begin to dream.
+
+> The most threatening act of protest for a capitalist system would be for its citizens to refuse to consume.
+
+comment pourrait être les objets dans le futur
+
+######Citation de fin
+> As we rapidly move toward a monoculture that makes imagining genuine
+alternatives almost impossible, we need to experiment with ways of developing
+new and distinctive worldviews that include different beliefs, values, ideals,
+hopes, and fears from today’s. If our belief systems and ideas don’t change,
+then reality won’t change either. It is our hope that speculating through
+design will allow us to develop alternative social imaginaries that open new
+perspectives on the challenges facing us.
+
+######Citation mythes du design
+> Myths taught at design school: (i) Design is good, (ii) Design makes people’s lives better, (iii) Design solves problems.
+
+>Of course, design can be and do all of these things but it has become so intrinsically linked to the complex systems of commerce and innovation that it has essentially been reduced to a novelty machine. Optimism is endemic, meaning that it is unnatural for designers to think about the implications of their (technological) products: technology is good; products are good; and the future (through technological products) will therefore also be good!
+
+>Once these myths are exposed, a new form of design becomes possible – more responsible, more intellectual and more creative. A design that embraces complexity, understands its history and essentially asks a lot of questions.
+
+James Auger (ITW speculative.hr)
+
+---
+
+> It is wrong to think of the future as a singular word. Tomorrow is not something given, it is not falling from the sky as a meteorite and it is certainly more than a uniform vision produced by the Western science fiction. There are several scenarios for the future, and they have not been written, yet.
+
+C'est faux de penser le futur au singulier. L'avenir n'est pas quelque chose d'acquis, ce n'est pas une météorite qui tombe du ciel, et c'est bien plus qu'une vision uniforme produite par la science fiction occidentale. Il y a une quantité de scénarios pour le futur, et ils n'ont pas encore été écrit.
+
+Nicolas Nova (ITW speculative.hr)
+
+"[Design Fiction] is the deliberate use of diegetic prototypes to suspend disbelief about change" - Bruce Sterling
+
+Haraway : wild facts
+idéologie de la science comme seule vérité 
+
+----
+
+###PART2
+
+@BoredElonMusk. Bored Elon suggests occasionally funny, absurdist products and services—a “TV that automatically turns on subtitles when it recognizes by your facial expression that you’re having troubling hearing dialogue
+
+### Le futur made in Silicon Valley
+
+- version aseptisé du futur, les marques s'emparent du concept "futur" + le futur sous forme de conférence TED
+
+Le futur s'incarne sous de multiples formes (caméras, capteurs, casques réalité virtuelle, algorithmes..etc) mais nous semble virtuel, désincarné. Le futur, de plus en plus utilisé comme argument de vente par les marques, semble même être devenu une partie de leur ADN.
+
+Daniel Innerarity, dans le *Futur et ses ennemis* : L'usage intensifié du mot futur "est dû au fait qu'il a été monopolisé par son acceptation technique et mercantile. Alors que les utopies modernes ont pensé le futur avant tout en terme d'innovation sociale, l'actuelle rhétorique du futur semble l'avoir restreint à la sphère des innovations technologiques et des marchés en expansion"
+
+le futur a changé : on est passé d'asimov, voitures volantes et compagnie aux big data, algorithmes et recherche de la perfection, de l'optimal
+
+Dans un dossier habilement intitulé "Pourquoi le futur a un goût de javel", Blaise Mao, rédacteur en chef d'Usbek & Rica (le magazine qui explore le futur), décrit comment la mutation que subit le monde affecte le futur et les imaginaires qui en découlent. Il s'interroge notamment sur les responsables de cette aseptisation de la société occidentale
+à la quête d'un futur prédictible, rêve de perfection
+"nouveau futurisme"
+
+La Silicon Valley expérimente elle-même son utopie dans le berceau Californien
+United States of Google / Sexisme Google / Apple cercle
+
+----
+
+- dresser le tableau du futur made in silicon valley (confort/surveillance/abolition du hasard/injonction au bonheur)
+
+
+###Solutionnisme
+
+Le "solutionnisme technologique" est un concept établi par l'écrivain Evgeny Morozov, chercheur et écrivain américain, spécialisé dans les questions politiques et sociales du progrès technologique. Il décrit le solutionnisme comme la pathologie des entreprises de la Silicon Valley à manifester une «foi totale dans la capacité de la technologie à offrir une solution à tous les problèmes, qu’ils soient triviaux, sociétaux ou métaphysiques". Dans son livre "Pour tout résoudre, cliquez ici", sorti en 201X, il analyse la manière dont la Silicon Valley échoue à imaginer un monde sans Internet, pilier de la pensée solutionniste. En déconstruisant la façon dont sont conçus les produits de ces entreprises, Morozov met à jour les nombreux problèmes qui apparaissent dans l'usage réel de ces objets et les dangers qu'ils représentent. Comme le rappel l'écrivain Neil Postman, dans un texte intitulé "5 choses à savoir sur la technologie" publié en 1998, chaque évolution technologique est en fait un compromis. Pour chaque avantage qu'une technologie apporte, il y a un inconvénient [qui va avec]. De même, Alain Damasio, [description?], décrit le concept de pouvoir contre puissance. Un GPS, par exemple, nous donne le pouvoir de nous repérer, mais nous fait perdre notre puissance d'orientation. 
+Quand Morozov donne l'exemple d'une cuisine connectée bardée de capteurs et d'applications de réalité augmentée, il précise que si cela semble augmenté technologiquement, cela semble aussi diminué intellectuellement. Il nous revient d'évaluer la part de bénéfices et de préjudices que toutes technologies provoquent; et de savoir si elles valent la peine d'être employées.
+
+> Pour commencer, on installera quelques caméras dans nos cuisines pour recevoir des conseils et des recettes, puis les entreprises alimentaires et technologiques nous diront qu'ils aimeraient que nous gardions les caméras pour améliorer leurs services, et, au final, on se rendra compte que toutes nos données liées à la nourriture sont stockées sur un serveur en Californie; pendant que les compagnies d'assurances analyseront combien de graisses saturées nous consommons et adaptant nos contrats d'assurance en conséquences. Faire la cuisine encouragé par les technologies *smart* [pourrait devenir comme un Cheval de Troie], ouvrant la voie à des projets bien plus sinistres encore. - Evgeny Morozov, *Pour tout résoudre, cliquez ici!*
+
+Deux choses en particulier m'intéresse dans le discours de Morozov. Premièrement, le solutionnisme résume à merveille l'incapacité de la Silicon Valley à produire un système de pensée qui s'écarte du modèle de l'innovation. Dans cette attitude "techno-utopique", la Silicon Valley élaborent des produits et des imaginaires du futur uniquement basé autour du concept de nouvelles technologies. Il pointe l'étroitesse d'esprit des géants technologiques dans leur manière d'appréhender le monde et de confronter les difficultés de la société. Répondre à tous les problèmes sociaux, économiques ou écologiques avec les technologies numériques créent en réalité bien d'autres problèmes. Le cas d'Uber est un exemple notable des dérives du solutionnisme. Ariel Kyrou, auteur et écrivain de science-fiction, parle de l'idéologie d'Uber comme d'un populisme *high-tech*[x].
+
+> La pollution ? La faim ? Le climat qui s’échauffe ? L’eau qui manque ? L’énergie qui s’épuise ? L’économie qui flanche ? L’éducation pour tous ? Plus besoin, ni de solidarité sociale ni de décisions politiques : tout sera résolu demain, [...], par ces « technologies de l’exponentiel » et leur immense potentiel de « disruption ». Autrement dit : par la capacité des robots, des nanotechnologies, des neurosciences, de la bioinformatique, des Big data, de l’intelligence artificielle, des plateformes digitales et des voitures sans chauffeurs à « ubériser » nos sociétés de fonctionnaires cacochymes pour y mettre à la place la pure et magnifique loi de la e-jungle et sa kyrielle de startups.
+
+Deuxièmement, Morozov ne se place pas en ennemi de la machine. Il énonce clairement la volonté et la nécessite d'engager une résistance face à ce mode de pensée, sans pour autant voir en la technologie un adversaire. Au contraire, rejeter le solutionnisme, dit-il, "c'est surtout dépasser la mentalité étroite d'esprit qui rejette tout manque d'efficacité et de productivité."
+
+Cet argument appuie l'idée, émise au premier chapitre, d'une faillite de l'idéologie de la neutralité du design. Technologie serait fondamentalement bonne
+
+> "Technology is not neutral. We're inside of what we make, and it's inside of us. We're living in a world of connections - and it matters which ones get made and unmade." - Donna Haraway pour WIRED, 1997
+
+Les logiciels, les systèmes d'exploitations, les dispositifs, les objets que le Silicon Valley produit ne sont pas neutres. Ils sont designés de manière à être orienté vers tous les mécanismes évoqués plus hauts : surveillance, contrôle, injonction au bonheur, abolition du hasard... Ces entreprises produisent des dispositifs fermés, des boîtes noires gouvernées par les algorithmes. Mais ces algorithmes sont conçus par ces sociétés dans des buts précis. Mark Zuckerberg, Steve Jobs, ou Elon Musk peuvent parler de connecter le monde, d'enrichir notre vie personnelle, de créer de nouvelles expériences sociales, mais leurs produits tendent à faire l'inverse.
+
+Google a récemment mis au point un algorithme qui détecte les problèmes sur une photographie (faible exposition, mise au point ratée...etc) au moment où celle ci est prise avec un smartphone. L'algorithme corrige instantanément la photo, pour la rendre "meilleure". Mais que veut dire meilleure, pour Google ? En abolissant l'erreur, Google rêve que ses utilisateurs ne produisent plus que des images parfaites; selon *leurs critères*. Derrière ce côté *gadget* se cache là une forme de design qui tend à uniformiser toutes les prises de vues. On peut s'attendre à ce que les images, à terme, finissent toutes par se ressembler. C'est un exemple qui, sous un aspect insignifiant, expose les mécanismes de standardisation à l'oeuvre dans le design même des objets.
+
+###On joue le jeu ?
+ servitude volontaire -> herbert marcuse
+
+
+Il donne entre autre l'exemple de la BinCam, une poubelle connectée qui analyse les déchets jetés par les utilisateurs et publie des photos sur leurs réseaux sociaux afin, par exemple, d'encourager leurs amis à recycler.
+
+désaséptiser le futur
+
+Critique de la modernité qu’on retrouve déjà, une décenie plus tôt, chez Jacques Tati et son film Mon Oncle, dont la célèbre Villa Arpel se révèle être un temple du fonctionnalisme, où tout se détraque sur le passage de M. Hulot. 
+
+> [...] la technologie, ce n'est ni évident, ni rapide, ni magique. Il faut cesser de croire au pouvoir des beaux objets de design blancs et lisses. La technologie, c'est l'échec, l'erreur, l'itération - Laurence Allard, Sociologue
+
+---
+
+
+**Utopies politiques forgées sur l'accélération**
+
+Herbert Marcuse --> imagine que les technologies soulagent le monde, pacification de l'existence --> c'est une utopie qui ne s'est pas produite
+
+> Il est certain que la liberté dépend très largement du progrès technique et des acquisitions de la science. Mais cela ne doit pas faire perdre de vue la condition essentielle : pour pouvoir devenir des agents de libération, il faudrait que la science et la technologie modifient leur orientation et leurs objectifs actuels, il faudrait qu'elles soient reconstruites conformément à une sensibilité nouvelle - conformément aux impératifs des pulsions de vie. C'est seulement alors que l'on pourrait parler d'une technologie de la libération, fruit d'une imagniation scientifique libre désormais de concevoir et de réaliser les formes d'un univers humain d'où seraient exclus le labeur et l'exploitation.
+
+techno-futurism
+etablished practice
+anti-technofix
+not very helpful to think about the near future
+immediate future
+building with each others
+
