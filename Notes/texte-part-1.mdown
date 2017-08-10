@@ -1,13 +1,7 @@
-> Qui sait de quoi demain sera fait ? Peu importe au fond : le futur, même incertain, chacun en parle comme si son existence allait de soi. Il a pourtant tout d'un mirage si nous l'imaginons comme une région temporelle où se logerait d'avance tout ce qui aura eu lieu. Si il s'agit d'un présent simplement à venir, d'une vaste réserve de présent, en attente de réalisation, alors le futur n'existe pas et n'existera jamais. Aujourd'hui, il n'est pas encore; une fois réalisé, il ne sera plus à venir. Reste la grammaire des temps signalée par les conjugaisons du verbe. Mais ce futur là n'a pas grand chose à voir avec l'objet de nos espoirs et de nos craintes. L'avenir prédit ou promis, redouté ou rêvé. Entre le futur antérieur, qui n'est qu'un passé anticipé, et la forme vide du projet, qui n'est qu'une dimension de la conscience anticipatrice, comment donnera t-on au futur la consistence qu'il mérite ? - Alain Bublex et Elie During, Le futur n'existe pas
+###Citation de début
+
 
 > « Le futur est un laboratoire sûr et stérile pour tester des idées, c’est un moyen de penser la réalité, une méthode.» Ursula Le Guin
-
-- Les imaginaires (définition Bachelard)
-- La panne des imaginaires du futur (Nicolas Nova)
-- Le sentiment d'atemporalité (ITW Bruce Sterling Nicolas Nova) = difficulté de s'imaginer les futurs
-
-- Le problème (tel que JE l'aborde) : pourquoi le futur a un goût de javel (Futur Silicon Valley + innovation/technologie --> design)
-- L'émergence du design speculatif/fiction (quel contexte ? Pourquoi et comment ? Quels envies, pourquoi cette impulsion des designers ?)
 
 puissance d'évocation
 design spéculatif = le champ du design qui explore l'avenir
@@ -16,6 +10,16 @@ silicon valley fabrique des technologies comme si elle y était contrainte (on n
 
 
 ----
+
+INTERVIEW VULTURE.com, william gibson
+
+>How do you account for the recent surge in popular fiction about the collapse of civilization into dystopia or Armageddon?
+
+This could be a case of consumers of a particular kind of pop culture trying to tell us something, alas. Seriously, what I find far more ominous is how seldom, today, we see the phrase “the 22nd century.” Almost never. Compare this with the frequency with which the 21st century was evoked in popular culture during, say, the 1920s.
+
+>Do you mean it’s ominous because people are so pessimistic that they can’t even imagine a future?
+
+﻿Well, that’s the question — why don’t we? I don’t know
 
 ### La panne des imaginaires
 
@@ -26,13 +30,14 @@ On désigne communément d'*imaginaire* tout ce qui existe dans l'imagination, c
 
 Gaston Bachelard, philosophe et épistémologue français, parle de l'imagination comme une "fonction de l'irréel", c'est à dire comme outil de création libre, puissant, utile et positif. L'imagination permet de penser ce qui n'est pas encore advenu, ce qui est à venir et ce qui est possible. Les *imaginaires*, au pluriel, seraient alors une synthèse de ces répresentations, une collection d'images formant un tableau décrivant une idée, un évènement ou une chose. 
 
-Les imaginaires du futur consisteraient donc en un ensemble d'images ayant pour même dynamique les visions prospectives et les représentations d'un temps à venir, ainsi que les discours, les représentations et les mythes qui entourent les objets technologiques, façonnant un univers riche et complexe qu'il s'agit de décrypter.
+Les imaginaires du futur consisteraient donc en un ensemble d'images ayant pour même dynamique les visions prospectives et les représentations d'un temps à venir, ainsi que les discours, les représentations et les mythes qui entourent les objets technologiques, façonnant un univers riche et complexe qu'il s'agit de décrypter. 
+Imaginaire collectif vs imaginaire personnel
 
 Si les designers spéculatifs questionnent dans leur travail les discours et les images du futur, il s'agit dans un premier temps de définir de quelles images nous parlons. Construire de nouveaux imaginaires implique l'existence d'imaginaires déjà en place, qui prédominent sur la représentation collective du futur. De quoi [ces imaginaires] sont-ils fait ?
 
 Nicolas Nova, ethnologue et chercheur[...], donne une première piste de réponse dans son livre *Futurs : la panne des imaginaires*. Selon lui, ces "images du futur" ont été en grande partie conçues dans les années 60 par la vague importante de littérature science-fictive, qui se développe fortement aux Etats-Unis, avec des auteurs comme Phillip K.Dick, Isaac Asimov ou Ray Bradbury. Ces récits forgent le *socle commun* d'une représentation du futur, décrivant des voitures volantes, des vaisseaux spatiaux, des machines toute puissantes prenant le contrôle sur l'Homme, des humains augmentés pouvant augmenter leur capacités physiques et cognitives grâce aux nano-puces dans le corps, évoluant aux seins de fictions futuristes le plus souvent dystopiques ou post-apocalyptiques. Ces futurs, ou ces *rétro-futurs* pourrait-t-on dire, (en tant que visions passées d'un futur qui ne s'est jamais produit) semblent, d'après Nova, insister à notre époque. En effet, ces scénarios sont encore largement exploités au cinéma, dans les publicités ou des les projets urbains. 
 
-> [...] la science-fiction a perdu son influence comme force d’inspiration sur le « futur », et plus particulièrement pour inspirer la création technologique et ses imaginaires. Il suffit de regarder les représentations du futur que l’on nous sert régulièrement dans les médias grand public ou dans les publicités pour des objets technologiques. Les inévitables gratte-ciel qui accompagnent les affiches des fabricants automobiles, le pseudo-monorail présenté sur les plaquettes du projet du Grand Paris, le retour sans fin des lunettes et casques de réalité virtuelle, les robots humanoïdes dont on nous vante l’arrivée prochaine, en constituent de bons exemples. Ils montrent au mieux une perpétuation des mythes, au pire, une panne des imaginaires.
+> [...] la science-fiction [traditionnelle] a perdu son influence comme force d’inspiration sur le « futur », et plus particulièrement pour inspirer la création technologique et ses imaginaires. Il suffit de regarder les représentations du futur que l’on nous sert régulièrement dans les médias grand public ou dans les publicités pour des objets technologiques. Les inévitables gratte-ciel qui accompagnent les affiches des fabricants automobiles, le pseudo-monorail présenté sur les plaquettes du projet du Grand Paris, le retour sans fin des lunettes et casques de réalité virtuelle, les robots humanoïdes dont on nous vante l’arrivée prochaine, en constituent de bons exemples. Ils montrent au mieux une perpétuation des mythes, au pire, une panne des imaginaires.
 
 Cette panne des imaginaires serait le symptôme d'un ressassement incessant de clichés autour du futur, rendant difficile notre capacité à se représenter d'autres images que celles-ci. Ces images étouffent tellement notre imagination que nous semblons perdre notre capacité à produire des alternatives. D'une certaine manière, on nous supplante nos imaginaires du futur.
 
@@ -72,6 +77,8 @@ le futur pitché sous la forme d'une conférence TED/d'une keynote
 Design Fiction *vs* Science Fiction --> **le design est plus proche des gens dans les usages**
 >The actors of speculative design are engaging in an interesting and critical way with technology and science (like artists do) but they are using a more **explicit language**, putting everything into a more recognisable framework, **in everyday life**, in society, in all kind of contexts. Their work engage with transport, furniture, new ways of dating, of consuming, etc. **Everybody is familiar with that**. (SPECULATIVE NOWa DEBATE)
 
+à mettre avec le visuel XF-LADDER 
+
 ----
 
 ### Harisson Discussion
@@ -107,8 +114,6 @@ Références Strange Design
 
 
 ---
-
-> « la Valley est un endroit où la grande promesse du capitalisme demeure encore pour beaucoup » article usbekrica technocritique
 
 > As Fredric Jameson famously remarked, it is now easier for us to imagine
 the end of the world than an alternative to capitalism. Yet alternatives are
@@ -165,29 +170,14 @@ Il est impossible de poursuivre la méthodologie employée par les designers vis
 
 comment pourrait être les objets dans le futur
 
-######Citation de fin
-> As we rapidly move toward a monoculture that makes imagining genuine
-alternatives almost impossible, we need to experiment with ways of developing
-new and distinctive worldviews that include different beliefs, values, ideals,
-hopes, and fears from today’s. If our belief systems and ideas don’t change,
-then reality won’t change either. It is our hope that speculating through
-design will allow us to develop alternative social imaginaries that open new
-perspectives on the challenges facing us.
 
-######Citation mythes du design
-> Myths taught at design school: (i) Design is good, (ii) Design makes people’s lives better, (iii) Design solves problems.
 
->Of course, design can be and do all of these things but it has become so intrinsically linked to the complex systems of commerce and innovation that it has essentially been reduced to a novelty machine. Optimism is endemic, meaning that it is unnatural for designers to think about the implications of their (technological) products: technology is good; products are good; and the future (through technological products) will therefore also be good!
-
->Once these myths are exposed, a new form of design becomes possible – more responsible, more intellectual and more creative. A design that embraces complexity, understands its history and essentially asks a lot of questions.
-
-James Auger (ITW speculative.hr)
 
 ---
 
 > It is wrong to think of the future as a singular word. Tomorrow is not something given, it is not falling from the sky as a meteorite and it is certainly more than a uniform vision produced by the Western science fiction. There are several scenarios for the future, and they have not been written, yet.
 
-C'est faux de penser le futur au singulier. L'avenir n'est pas quelque chose d'acquis, ce n'est pas une météorite qui tombe du ciel, et c'est bien plus qu'une vision uniforme produite par la science fiction occidentale. Il y a une quantité de scénarios pour le futur, et ils n'ont pas encore été écrit.
+C'est faux de penser le futur comme une chose isolée. L'avenir n'est pas quelque chose d'acquis, ce n'est pas une météorite qui tombe du ciel, et c'est bien plus qu'une vision uniforme produite par la science fiction occidentale. Il y a une quantité de scénarios pour le futur, et ils n'ont pas encore été écrit.
 
 Nicolas Nova (ITW speculative.hr)
 
@@ -196,13 +186,16 @@ Nicolas Nova (ITW speculative.hr)
 Haraway : wild facts
 idéologie de la science comme seule vérité 
 
-----
+-------------------------------------------------------------------------------
 
-###PART2
+
+### PARTIE 2
 
 @BoredElonMusk. Bored Elon suggests occasionally funny, absurdist products and services—a “TV that automatically turns on subtitles when it recognizes by your facial expression that you’re having troubling hearing dialogue
 
 ### Le futur made in Silicon Valley
+
+> « la Valley est un endroit où la grande promesse du capitalisme demeure encore pour beaucoup » article usbekrica technocritique
 
 - version aseptisé du futur, les marques s'emparent du concept "futur" + le futur sous forme de conférence TED
 
@@ -245,15 +238,16 @@ Les logiciels, les systèmes d'exploitations, les dispositifs, les objets que le
 
 Google a récemment mis au point un algorithme qui détecte les problèmes sur une photographie (faible exposition, mise au point ratée...etc) au moment où celle ci est prise avec un smartphone. L'algorithme corrige instantanément la photo, pour la rendre "meilleure". Mais que veut dire meilleure, pour Google ? En abolissant l'erreur, Google rêve que ses utilisateurs ne produisent plus que des images parfaites; selon *leurs critères*. Derrière ce côté *gadget* se cache là une forme de design qui tend à uniformiser toutes les prises de vues. On peut s'attendre à ce que les images, à terme, finissent toutes par se ressembler. C'est un exemple qui, sous un aspect insignifiant, expose les mécanismes de standardisation à l'oeuvre dans le design même des objets.
 
-###On joue le jeu ?
- servitude volontaire -> herbert marcuse
+> One example is Google’s development of self-driving cars. Initially, the company envisioned a vehicle that would aid the driver through Traffic Jam Assist and other elective autopilot features. But in development it proved more efficient simply to design humans out of the loop. The cars were stripped of their steering columns, and the model currently under development is more like an elevator, operating autonomously with very little human intervention.
 
+### On joue le jeu ?
+ servitude volontaire -> herbert marcuse
 
 Il donne entre autre l'exemple de la BinCam, une poubelle connectée qui analyse les déchets jetés par les utilisateurs et publie des photos sur leurs réseaux sociaux afin, par exemple, d'encourager leurs amis à recycler.
 
 désaséptiser le futur
 
-Critique de la modernité qu’on retrouve déjà, une décenie plus tôt, chez Jacques Tati et son film Mon Oncle, dont la célèbre Villa Arpel se révèle être un temple du fonctionnalisme, où tout se détraque sur le passage de M. Hulot. 
+Critique de la modernité qu’on retrouve déjà, dans les Temps Modernes de Chaplin, et même une décenie plus tôt, chez Jacques Tati et son film Mon Oncle, dont la célèbre Villa Arpel se révèle être un temple du fonctionnalisme, où tout se détraque sur le passage de M. Hulot. 
 
 > [...] la technologie, ce n'est ni évident, ni rapide, ni magique. Il faut cesser de croire au pouvoir des beaux objets de design blancs et lisses. La technologie, c'est l'échec, l'erreur, l'itération - Laurence Allard, Sociologue
 
@@ -266,10 +260,53 @@ Herbert Marcuse --> imagine que les technologies soulagent le monde, pacificatio
 
 > Il est certain que la liberté dépend très largement du progrès technique et des acquisitions de la science. Mais cela ne doit pas faire perdre de vue la condition essentielle : pour pouvoir devenir des agents de libération, il faudrait que la science et la technologie modifient leur orientation et leurs objectifs actuels, il faudrait qu'elles soient reconstruites conformément à une sensibilité nouvelle - conformément aux impératifs des pulsions de vie. C'est seulement alors que l'on pourrait parler d'une technologie de la libération, fruit d'une imagniation scientifique libre désormais de concevoir et de réaliser les formes d'un univers humain d'où seraient exclus le labeur et l'exploitation.
 
-techno-futurism
-etablished practice
-anti-technofix
-not very helpful to think about the near future
-immediate future
-building with each others
 
+---
+PARTIE 3
+
+chantonsky disnovation
+
+REFERENCES
+
+James Bridle - Autonomous Trap
+http://we-make-money-not-art.com/failing-to-distinguish-between-a-tractor-trailer-and-the-bright-white-sky/
+> I think it’s incredibly important to understand the medium you’re working with, which in my case was machine vision and machine intelligence as applied to a self-driving car – something that makes its own way in the world. By understanding the materiality of the medium, you really get a sense of a much wider range of possibilities for it – something you will never do with someone else’s machine.
+> Je crois que c'est extrêmement important de comprendre le medium avec lequel tu travailles, dans mon cas la *machine vision* et la *machine intelligence* appliqués aux voitures autonomes - [quelque chose qui a fait sa place dans le monde]. En assimilant la matérialité du médium, tu te fais une bonne idée du spectre des possibilités avec lesquelles tu peux travailler - quelque chose qui ne serait pas possible avec la machine de quelqu'un d'autre.
+
+Projets de 3D Additivism Cookbook
+
+Détournement d'objets technologiques à Cuba 
+http://www.technologicaldisobedience.com/
+http://espacevirtuel.jeudepaume.org/technological-disobedience-2694/
+
+Imitation des usages technos par les aborigènes
+http://cargoclub.tumblr.com/
+http://espacevirtuel.jeudepaume.org/supercargo-2699/
+
+Julien Prévieux - Gestes à venir
+https://player.vimeo.com/video/59793317
+http://espacevirtuel.jeudepaume.org/what-shall-we-do-next-2727/
+
+Relation SF et imaginaire Silicon Valley
+http://espacevirtuel.jeudepaume.org/the-future-as-foretold-in-the-past-2705/
+
+UnfitBits
+http://www.unfitbits.com/
+http://espacevirtuel.jeudepaume.org/unfit-bits-2931/
+
+Unplug
+http://espacevirtuel.jeudepaume.org/cyborg-unplug-2905/
+
+Institut précognitif de la propriété Industrielle
+http://rybn.org/IPPI/brevets.php
+http://espacevirtuel.jeudepaume.org/institut-precognitif-de-la-propriete-industrielle-2910/
+
+
+######Citation de fin
+> As we rapidly move toward a monoculture that makes imagining genuine
+alternatives almost impossible, we need to experiment with ways of developing
+new and distinctive worldviews that include different beliefs, values, ideals,
+hopes, and fears from today’s. If our belief systems and ideas don’t change,
+then reality won’t change either. It is our hope that speculating through
+design will allow us to develop alternative social imaginaries that open new
+perspectives on the challenges facing us. - Dunne & Rabby, Speculative Everything

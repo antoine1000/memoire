@@ -65,7 +65,7 @@ Le design spéculatif est le fil rouge, le sujet principal du mémoire. Les text
 oui, mais quelles sont-elles, ces utopies ?
 articulation avec la seconde partie
 
-### Des imaginaires qui posent problèmes
+### Des imaginaires qui posent problème
 > Notre imaginaire du futur n’évolue plus. Il est le même que celui qu’on nous proposait il y a 60 ans. Nous sommes plongés dans un perpétuel « rétro-futur ». De plus, la Silicon Valley s'empare du concept de futur pour en faire quelque chose de désincarné et dangereux.
 
 ##### La panne des imaginaires
@@ -76,8 +76,6 @@ articulation avec la seconde partie
 ##### Le futur made in Silicon Valley
 - version aseptisé du futur, les marques s'emparent du concept "futur" (le futur sous forme de conférence TED)
 - dresser le tableau du futur made in silicon valley (confort/surveillance/abolition du hasard/injonction au bonheur)
-
-##### L'utopie solutionniste
 - le discours du solutionnisme technologique (Evgeny Morozov)
 - le populisme technologique (Aryel Kirou)
 - smart design + internet of shit + failed futures = en fait, ce futur ne fonctionne pas comme prévu
@@ -109,6 +107,6 @@ articulation avec la partie suivante
 - répondre à la problématique de départ : en quoi le design spéculatif est un outil de réappropriation du futur ? -> réponses = méthodologie/exemples/nécessité/résultat concret
 - les limites du design spéculatif (méthodologie ravalée par le capitalisme ? succombe à l'effet de mode), problème posé + le futur de ce mouvement (débat speculative now)
 - exposer ma vision des choses : concrétiser les propositions, de la fiction à la réalité, créer des futurs positifs, passer de la pensée *en contre* à la pensée *en pour* (ne plus dire **non au futur parfait**, mais **oui au futur atypique**), pratique **d'exploration des futurs**
-- en quoi est-ce nécessaire d'inventer et de voir de nouvelles images ? (en tant que practicien) -> point de vue personnel, qu'est ce que ça apporte dans mon travail ? pour quelles raisons ça m'intéresse ? gagner la guerre des imaginaires, plus que de créer des fictions alternatives, il faut agir concrètement (ethics by design...etc) 
-- peut-être à compléter ?
+- en quoi est-ce nécessaire d'inventer et de voir de nouvelles images ? (en tant que practicien) -> point de vue personnel, qu'est ce que ça apporte dans mon travail ? pour quelles raisons ça m'intéresse ? gagner la guerre des imaginaires, plus que de créer des fictions alternatives, il faut agir concrètement (ethics by design...etc) importance de construire des récits alternatifs, en tant que designer : rendre la technologie visible
+- ces oeuvres de design spéculatif me rappelle qu'il y a des failles dans la technologies, qu'il est intéressant d'exploiter en tant que practicien : faire bugger la machine, c'est ce qui crée de l'innatendu, de l'intéressant, à la fois l'enjeu de démystyfication, le projet de grille-pain de thomas twaites par exemple, mais aussi de création par l'erreur, c'est ce que j'essaye de faire dans mon travail, de créer des scénarios un peu étrange 
 

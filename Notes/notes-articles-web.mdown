@@ -7,7 +7,7 @@ en tant que designer/practicien, la question qui se pose est la suivante : qui s
 imaginaire collectif du futur
 
 ----
-
+PROBLEME DU DESIGN SPECULATIF
 > Speculative fiction provides an important opportunity to anticipate and prepare for techno-cultural change. The problem arises when we begin to prioritize that fictional narrative over actual experience, when we let these speculations control the reality that emerges.
 
 au sein de courant émerge un mouvement critique de la Silicon Valley, qui semble détenir les imaginaires collectifs du futur
@@ -15,7 +15,8 @@ au sein de courant émerge un mouvement critique de la Silicon Valley, qui sembl
 visions techno-utopique
 
 ---
-TED
+
+from https://thenewinquiry.com/against-ted/
 
 >This is the “innovator’s dilemma”: do you give your customers what they say they want, or what they do not yet know they need? 
 
@@ -35,6 +36,8 @@ TED
 
 ----
 
+https://thenewinquiry.com/the-future-bubble/
+
 > Yet the vision of the future these would-be champions of tech-driven innovation offer turns out, on closer inspection, to be very cramped and fearful. Many of the companies emerging from Silicon Valley aren’t offering any magical new technologies but merely matching services like Taskrabbit, Airbnb, and Uber. These platforms are little more than mechanisms to more efficiently exploit precarious labor and circumvent local regulations covering work, housing, and transportation.
 
 > Take, for example, the 2014 “Luddite Awards” handed out by the Information Technology and Innovation Foundation, an industry-funded think tank. One group of supposed technology haters are the proponents of net neutrality, the principle that Internet communications should be available at the same prices and speeds to all users. Because this principle invalidates the business models of companies that would like to use their monopoly position to charge variable prices for network access, the net neutrality movement is deemed “anti-innovation.”
@@ -50,6 +53,7 @@ TED
 > **It is said that science-fiction futures are always really about the time in which they are written.** The same is true of all radical speculations about the future of capitalism, and all attempts to lay the groundwork for a different future. In a very specific, quantifiable sense, they call into question the value of assets in the present, and therefore the social power of the owners of those assets.
 
 ----
+http://speculative.hr/en/damir-prizmic/
 
 > In the time of rapid technological development, hyper-production and aggressive social and psychological manipulations, the need for criticism and reflection is definitely more expressed than before. It seems to me that speculative approach is well suited to that new, “overclocked” reality because it is more extreme and it can go further on. It is braver in scrutinizing and creating objects, contexts, scenarios and policies, which provokes reactions before certain problems manifest. In my work, I am least focused on final products and concepts. For me, it is far more interesting to continuously examine and revise things, keep sketching, which allows for much more operations. Also, I have always been attracted to technology that is nowadays the main social driver but also an important source of inspiration and a very powerful tool for expression.
 
