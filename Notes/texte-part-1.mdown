@@ -11,52 +11,6 @@ silicon valley fabrique des technologies comme si elle y était contrainte (on n
 
 ----
 
-INTERVIEW VULTURE.com, william gibson
-
->How do you account for the recent surge in popular fiction about the collapse of civilization into dystopia or Armageddon?
-
-This could be a case of consumers of a particular kind of pop culture trying to tell us something, alas. Seriously, what I find far more ominous is how seldom, today, we see the phrase “the 22nd century.” Almost never. Compare this with the frequency with which the 21st century was evoked in popular culture during, say, the 1920s.
-
->Do you mean it’s ominous because people are so pessimistic that they can’t even imagine a future?
-
-﻿Well, that’s the question — why don’t we? I don’t know
-
-### La panne des imaginaires
-
-> « Quand j’étais enfant, il y a trente ans, le futur était très lointain – de même que le nouveau millénaire. Des dates telles que 1984 et 2001 paraissaient vraiment distantes. Mais ce qui est curieux, c’est que depuis tout ce temps, le futur auquel les gens pensent n’a pas changé de millénaire. C’est comme si l’avenir s’était rabougri, année après année, pendant toute ma vie.
-
-Une petite définition des imaginaires s'impose.
-On désigne communément d'*imaginaire* tout ce qui existe dans l'imagination, c'est à dire la production de représentations par l'esprit. L'imagination n'est pas limité à la reproduction d'images mentales déjà existante (le fait de se représenter l'image d'un objet par exemple). Elle possède également une puissance de création sans limite, par la combinaison des idées ou l'anticipation des évènements. 
-
-Gaston Bachelard, philosophe et épistémologue français, parle de l'imagination comme une "fonction de l'irréel", c'est à dire comme outil de création libre, puissant, utile et positif. L'imagination permet de penser ce qui n'est pas encore advenu, ce qui est à venir et ce qui est possible. Les *imaginaires*, au pluriel, seraient alors une synthèse de ces répresentations, une collection d'images formant un tableau décrivant une idée, un évènement ou une chose. 
-
-Les imaginaires du futur consisteraient donc en un ensemble d'images ayant pour même dynamique les visions prospectives et les représentations d'un temps à venir, ainsi que les discours, les représentations et les mythes qui entourent les objets technologiques, façonnant un univers riche et complexe qu'il s'agit de décrypter. 
-Imaginaire collectif vs imaginaire personnel
-
-Si les designers spéculatifs questionnent dans leur travail les discours et les images du futur, il s'agit dans un premier temps de définir de quelles images nous parlons. Construire de nouveaux imaginaires implique l'existence d'imaginaires déjà en place, qui prédominent sur la représentation collective du futur. De quoi [ces imaginaires] sont-ils fait ?
-
-Nicolas Nova, ethnologue et chercheur[...], donne une première piste de réponse dans son livre *Futurs : la panne des imaginaires*. Selon lui, ces "images du futur" ont été en grande partie conçues dans les années 60 par la vague importante de littérature science-fictive, qui se développe fortement aux Etats-Unis, avec des auteurs comme Phillip K.Dick, Isaac Asimov ou Ray Bradbury. Ces récits forgent le *socle commun* d'une représentation du futur, décrivant des voitures volantes, des vaisseaux spatiaux, des machines toute puissantes prenant le contrôle sur l'Homme, des humains augmentés pouvant augmenter leur capacités physiques et cognitives grâce aux nano-puces dans le corps, évoluant aux seins de fictions futuristes le plus souvent dystopiques ou post-apocalyptiques. Ces futurs, ou ces *rétro-futurs* pourrait-t-on dire, (en tant que visions passées d'un futur qui ne s'est jamais produit) semblent, d'après Nova, insister à notre époque. En effet, ces scénarios sont encore largement exploités au cinéma, dans les publicités ou des les projets urbains. 
-
-> [...] la science-fiction [traditionnelle] a perdu son influence comme force d’inspiration sur le « futur », et plus particulièrement pour inspirer la création technologique et ses imaginaires. Il suffit de regarder les représentations du futur que l’on nous sert régulièrement dans les médias grand public ou dans les publicités pour des objets technologiques. Les inévitables gratte-ciel qui accompagnent les affiches des fabricants automobiles, le pseudo-monorail présenté sur les plaquettes du projet du Grand Paris, le retour sans fin des lunettes et casques de réalité virtuelle, les robots humanoïdes dont on nous vante l’arrivée prochaine, en constituent de bons exemples. Ils montrent au mieux une perpétuation des mythes, au pire, une panne des imaginaires.
-
-Cette panne des imaginaires serait le symptôme d'un ressassement incessant de clichés autour du futur, rendant difficile notre capacité à se représenter d'autres images que celles-ci. Ces images étouffent tellement notre imagination que nous semblons perdre notre capacité à produire des alternatives. D'une certaine manière, on nous supplante nos imaginaires du futur.
-
-À cela s'ajoute une sensation étrange d'atemporalité, terme inventé par Bruce Sterling, auteur de science-fiction, pour désigner ce sentiment d'un futur qui se serait *dilué* dans le présent. 
-
-> Sterling explique ce caractère étrange par l’imbrication du passé et de l’avenir dans une sorte de présent fortement influencé par les technologies de l’information et de la communication. L’usage régulier du Web, des réseaux sociaux, de l’Internet mobile, de l’email, en permettant un accès en quasi temps-réel à une masse d’information considérable comprime selon lui notre horizon temporel. Ce qui annihile du coup tout élargissement du spectre temporel, en particulier vers l’avenir.
-
-Ce sentiment d'atemporalité 
-
-Je distingue, pour ma part, un problème qui soulève des interrogations plus grandes encore. Il semblerait que nous soyons nourris d'imaginaires du futurs concoctés par des entreprises aux pouvoirs toujours plus grands : Google, Apple, Facebook, Amazon, Microsoft. Ces géants du milieu technologique, tous implantés dans la région Californienne de la Silicon Valley, jouissent d'une visibilité accrue, d'une toute puissance financière et font l'objet d'un véritable culte.
-
-> Technology is the active human interface with the material world.
-
->But the word is consistently misused to mean only the enormously complex and specialised technologies of the past few decades, supported by massive exploitation both of natural and human resources.
-
->This is not an acceptable use of the word. "Technology" and "hi tech" are not synonymous, and a technology that isn't "hi," isn't necessarily "low" in any meaningful sense. 
-
-----
-
 Une seconde piste : la Silicon Valley reprend/fabriquent/s'emparent de ces utopies
 
 Problème donc : difficulté à imaginer le futur autrement qu'à travers des clichés de la culture populaire, futur javelisé par la S.Valley (Usbek & Rica), et sentiment de futur permanent (Bruce Sterling) rendant le présent indissociable du futur
@@ -125,13 +79,6 @@ TRADUCTION FR
 
 > Comme Fredric Jameson l'a très bien fait remarquer, il est désormais plus simple pour nous d'imaginer la fin du monde qu'une alternative au capitalisme. Pourtant, des alternatives, c'est exactement ce dont nous avons besoin. Nous devons créer de nouveaux rêves pour le 21eme siècle puisque ceux du 20eme s'évaporent. Quel rôle peut alors jouer le design ? - Dunne & Rabby, Speculative Everything
 
-> We believe that by speculating more, at all levels of society, and
-exploring alternative scenarios, reality will become more malleable and,
-although the future cannot be predicted, we can help set in place today
-factors that will increase the probability of more desirable futures
-happening.
-
-> 
 
 - pas intéressé par les prédictions technologiques, basés sur des signaux faibles: cela se révèle toujours faux en plus d'être une activité inutile
 - intéressé en revanche par "l'idée de futurs possibles, comme des outils permettant de mieux comprendre le présent" et débattre du genre de futur que veulent ou ne veulent pas les gens
@@ -143,9 +90,9 @@ happening.
 
 Le design spéculatif agit comme un espace de réflexion sur la manière dont les choses pourraient être.
 
-especially nowadays, in the context of the new social, technological, media and economic conditions.
+> especially nowadays, in the context of the new social, technological, media and economic conditions.
 
-raises awareness, questions, provokes action, initiates discussions and perhaps even offers some alternatives that are essential for the today’s world. 
+> raises awareness, questions, provokes action, initiates discussions and perhaps even offers some alternatives that are essential for the today’s world. 
 
 ----
 #BEYOND RADICAL DESIGN?
@@ -175,46 +122,96 @@ comment pourrait être les objets dans le futur
 
 ---
 
-> It is wrong to think of the future as a singular word. Tomorrow is not something given, it is not falling from the sky as a meteorite and it is certainly more than a uniform vision produced by the Western science fiction. There are several scenarios for the future, and they have not been written, yet.
+### La panne des imaginaires
 
-C'est faux de penser le futur comme une chose isolée. L'avenir n'est pas quelque chose d'acquis, ce n'est pas une météorite qui tombe du ciel, et c'est bien plus qu'une vision uniforme produite par la science fiction occidentale. Il y a une quantité de scénarios pour le futur, et ils n'ont pas encore été écrit.
 
-Nicolas Nova (ITW speculative.hr)
+>How do you account for the recent surge in popular fiction about the collapse of civilization into dystopia or Armageddon?
 
-"[Design Fiction] is the deliberate use of diegetic prototypes to suspend disbelief about change" - Bruce Sterling
+This could be a case of consumers of a particular kind of pop culture trying to tell us something, alas. Seriously, what I find far more ominous is how seldom, today, we see the phrase “the 22nd century.” Almost never. Compare this with the frequency with which the 21st century was evoked in popular culture during, say, the 1920s.
 
-Haraway : wild facts
-idéologie de la science comme seule vérité 
+>Do you mean it’s ominous because people are so pessimistic that they can’t even imagine a future?
+
+﻿Well, that’s the question — why don’t we? I don’t know
+
+from INTERVIEW VULTURE.com, william gibson
+
+
+> « Quand j’étais enfant, il y a trente ans, le futur était très lointain – de même que le nouveau millénaire. Des dates telles que 1984 et 2001 paraissaient vraiment distantes. Mais ce qui est curieux, c’est que depuis tout ce temps, le futur auquel les gens pensent n’a pas changé de millénaire. C’est comme si l’avenir s’était rabougri, année après année, pendant toute ma vie.
+
+Si le sujet de ce mémoire est la représentation des imaginaires du futur, une courte définition des imaginaires s'impose.
+
+On désigne communément "d'imaginaire" tout ce qui existe dans l'imagination, c'est à dire la production de représentations par l'esprit. L'imagination n'est pas limité à la reproduction d'images mentales déjà existante (le fait de se représenter l'image d'un objet par exemple). Elle possède également une puissance de création sans limite, par la combinaison des idées ou l'anticipation des évènements. 
+
+Gaston Bachelard, philosophe et épistémologue français, parle de l'imagination comme d'une "fonction de l'irréel", c'est à dire comme outil de création libre, puissant, utile et positif. L'imagination permet de penser ce qui n'est pas encore advenu, ce qui est à venir et ce qui est possible. Les *imaginaires*, au pluriel, seraient alors une synthèse de ces répresentations, une collection d'images formant un tableau synthétique d'une idée, d'un évènement ou d'une chose. 
+
+Les imaginaires du futur consisteraient donc en un ensemble d'images ayant pour même dynamique les visions prospectives et les représentations d'un temps à venir, ainsi que les discours, les représentations et les mythes qui entourent les objets technologiques, façonnant un univers riche et complexe qu'il s'agit de décrypter. Ces imaginaires relèvent du collectif, au sens où les gens, de manière unanime, forment une image mentale plus ou moins similaire d'une même idée. On comprend dès lors qu'il y a une distinction entre l'imaginaire collectif et l'imaginaire personnel. C'est pourquoi, quand je parlerai d'imaginaires du futur, il faudra bien comprendre les imaginaires *collectifs* du futur, au sens de culture populaire admise par un ensemble d'individus.
+
+Si les designers spéculatifs questionnent dans leur travail les discours et les images du futur, il s'agit dans un premier temps de définir de quelles images nous parlons. Construire de nouveaux imaginaires implique l'existence d'imaginaires déjà en place, qui prédominent sur la représentation collective du futur. De quoi [ces imaginaires] sont-ils fait, et sur quelles bases sont-ils élaboré ?
+
+Nicolas Nova, ethnologue et chercheur[...], donne une première piste de réponse dans son livre *Futurs : la panne des imaginaires*. Selon lui, ces "images du futur" ont été en grande partie conçues dans les années 60 par la vague importante de littérature science-fictive, qui se développe fortement aux Etats-Unis, avec des auteurs comme Phillip K.Dick, Isaac Asimov ou Ray Bradbury. Ces récits forgent le *socle commun* d'une représentation du futur, décrivant des voitures volantes, des vaisseaux spatiaux, des machines toute puissantes prenant le contrôle sur l'Homme, des humains augmentés pouvant augmenter leur capacités physiques et cognitives grâce aux nano-puces dans le corps, évoluant aux seins de fictions futuristes le plus souvent dystopiques ou post-apocalyptiques. Ces futurs, ou ces *rétro-futurs* pourrait-t-on dire, (en tant que visions passées d'un futur qui ne s'est jamais produit) semblent, d'après Nova, insister à notre époque. En effet, ces scénarios sont encore largement exploités au cinéma, dans les publicités ou des les projets urbains. 
+
+> [...] la science-fiction [traditionnelle] a perdu son influence comme force d’inspiration sur le « futur », et plus particulièrement pour inspirer la création technologique et ses imaginaires. Il suffit de regarder les représentations du futur que l’on nous sert régulièrement dans les médias grand public ou dans les publicités pour des objets technologiques. Les inévitables gratte-ciel qui accompagnent les affiches des fabricants automobiles, le pseudo-monorail présenté sur les plaquettes du projet du Grand Paris, le retour sans fin des lunettes et casques de réalité virtuelle, les robots humanoïdes dont on nous vante l’arrivée prochaine, en constituent de bons exemples. Ils montrent au mieux une perpétuation des mythes, au pire, une panne des imaginaires.
+
+Nova explique que les objets de la culture science-fictive sont devenus si prégnants dans l’imaginaire collectif qu’ils se sont "transformés en objectifs à atteindre pour nombres de sociétés technologiques actuelles" et que rendre tangible ces objets fictifs (casque de réalité virtuelle, robots humanoîdes, développement d'intelligence artificielle...) "semble être un des moteurs de processus de recherche et développement actuels".
+
+Cette panne des imaginaires serait également le symptôme d'un ressassement incessant de clichés et d'illustrations récurrentes autour du futur, rendant difficile notre capacité à se représenter d'autres images que celles-ci. Ces images étouffent tellement notre imagination que nous semblons perdre notre capacité à produire des représentations alternatives. D'une certaine manière, nos imaginaires du futur sont supplantés par la culture [autour du futur].
+
+Nicolas Nova émet deux hypothèses intéressantes quant à cette panne des imaginaires. La première serait que la science-fiction s'est faite "distancier par le réel". Nova avance que les nouvelles technologies numériques contemporaines – réseaux, appareils mobiles, capteurs, robots en particulier – et leurs usages, "mènent à des comportements singuliers tout aussi curieux que les situations vécues par les protagonistes de romans de Philip K. Dick, de Ray Bradbury ou d’Isaac Asimov". 
+
+La seconde hypothèse rejoint l'idée que la création d'imaginaires du futur n'est plus seulement l'exclusivité des écrivains de science-fiction, mais qu'il est également celui des artistes, designers et architectes (hypothèse qui se confirme avec l'émergence des pratiques spéculatives). J'ajouterai à celà que la création d'imaginaires du futur est dans une situation de mise en concurrence avec les grandes entreprises de groupes technologiques.
+
+
+
+### Atemporalité
+
+À cela s'ajoute une sensation étrange d'atemporalité, terme inventé par Bruce Sterling, auteur de science-fiction, pour désigner ce sentiment d'un futur qui se serait *dilué* dans le présent. Ce présent atemporel serait une sensation inhérente à notre époque.
+
+> Sterling explique ce caractère étrange par l’imbrication du passé et de l’avenir dans une sorte de présent fortement influencé par les technologies de l’information et de la communication. L’usage régulier du Web, des réseaux sociaux, de l’Internet mobile, de l’email, en permettant un accès en quasi temps-réel à une masse d’information considérable comprime selon lui notre horizon temporel. Ce qui annihile du coup tout élargissement du spectre temporel, en particulier vers l’avenir.
+
+
+Je distingue, pour ma part, un problème qui soulève des interrogations plus grandes encore. Il semblerait que nous soyons nourris d'imaginaires du futurs concoctés par des entreprises aux pouvoirs toujours plus grands : Google, Apple, Facebook, Amazon, Microsoft. Ces géants du milieu technologique, tous implantés dans la région Californienne de la Silicon Valley, jouissent d'une visibilité accrue, d'une toute puissance financière et font l'objet d'un véritable culte. 
+
+> Nous sommes conditionnés à voir le moment présent comme « normal », avec toute la banalité que ce terme signifie. Or tout cela n’est pas banal. Nous sommes dans une sorte de moment chaotique et intense, plein de choses étranges, que nous ne pouvions rencontrer auparavant que dans la science-fiction. Ce « maintenant » donne l’impression d’encapsuler toute la science-fiction qui arriverait d’un coup. Il faut donc apprendre à reconsidérer le contexte dans lequel on vit, alors que l’on nous a promis un monde de miracles et d’émerveillement. Cette culture technique nous a entraîné à ne plus porter attention à tout cela. - Warren Ellis
+
+mettre en scène le monde de demain
+
 
 -------------------------------------------------------------------------------
 
 
 ### PARTIE 2
 
-@BoredElonMusk. Bored Elon suggests occasionally funny, absurdist products and services—a “TV that automatically turns on subtitles when it recognizes by your facial expression that you’re having troubling hearing dialogue
-
 ### Le futur made in Silicon Valley
-
-> « la Valley est un endroit où la grande promesse du capitalisme demeure encore pour beaucoup » article usbekrica technocritique
 
 - version aseptisé du futur, les marques s'emparent du concept "futur" + le futur sous forme de conférence TED
 
-Le futur s'incarne sous de multiples formes (caméras, capteurs, casques réalité virtuelle, algorithmes..etc) mais nous semble virtuel, désincarné. Le futur, de plus en plus utilisé comme argument de vente par les marques, semble même être devenu une partie de leur ADN.
+Les pionniers de l’eldorado californien se sont désormais imposés dans le monde. Ils dominent les milieux technologiques et s’infiltrent dans tous les domaines de la vie. Extrêmement puissants financièrement, ils ont même un pouvoir au niveau politique. La Silicon Valley incarne un modèle de réussite partout célébré dans le monde occidental. Ses entreprises possèdent un pouvoir incroyable pour remodeler notre façon de penser, de voir et d'envisager le monde ; Google remanie notre façon de chercher, de nous orienter, de communiquer ; Amazon notre manière de consommer; Uber notre façon de travailler; Facebook notre rapport à l’information ; Netflix accapare notre attention.
 
-Daniel Innerarity, dans le *Futur et ses ennemis* : L'usage intensifié du mot futur "est dû au fait qu'il a été monopolisé par son acceptation technique et mercantile. Alors que les utopies modernes ont pensé le futur avant tout en terme d'innovation sociale, l'actuelle rhétorique du futur semble l'avoir restreint à la sphère des innovations technologiques et des marchés en expansion"
+Ma volonté n'est pas d'accuser de façon injustifié la Silicon Valley comme le "grand méchant loup" de la technologie : cela serait trop réducteur. Si je choisis de parler de la Silicon Valley, c'est parce qu'elle constitue le symbole suprême du modèle occidental américanisé; c'est un endroit où la grande promesse du capitalisme demeure encore pour beaucoup. Il me semble nécessaire d'observer de quelles manières elles forgent une certaine image du futur. Quel avenir Google, Facebook, Apple ou encore Uber veulent-elles inventer ?
 
-le futur a changé : on est passé d'asimov, voitures volantes et compagnie aux big data, algorithmes et recherche de la perfection, de l'optimal
+Pour 
+Aujourd'hui, le futur s'incarne sous de multiples formes technologiques (caméras, capteurs, casques réalité virtuelle, algorithmes...) mais nous semble désincarné, dématérialisé : insaisissable. Le futur, de plus en plus utilisé comme argument de vente par les marques, semble même être devenu une partie de leur ADN. 
 
-Dans un dossier habilement intitulé "Pourquoi le futur a un goût de javel", Blaise Mao, rédacteur en chef d'Usbek & Rica (le magazine qui explore le futur), décrit comment la mutation que subit le monde affecte le futur et les imaginaires qui en découlent. Il s'interroge notamment sur les responsables de cette aseptisation de la société occidentale
-à la quête d'un futur prédictible, rêve de perfection
-"nouveau futurisme"
+En réalité, le futur s'est transformé : l'heure est aujourd'hui aux Big Data, algorithmes et à la recherche constante de la perfection et de l'optimisation des vies.
 
-La Silicon Valley expérimente elle-même son utopie dans le berceau Californien
-United States of Google / Sexisme Google / Apple cercle
+
+Dans un dossier habilement intitulé "Pourquoi le futur a un goût de javel", Blaise Mao, rédacteur en chef d'Usbek & Rica (le magazine qui explore le futur), décrit comment la mutation technologique que subit le monde affecte le futur et les imaginaires qui en découlent. Il s'interroge notamment sur les responsables de cette aseptisation de la société occidentale. La Silicon Valley et la "start-up mania" joue pour beaucoup dans la transformation de nos imaginaires et soulève de nombreuses inquiètudes quant à ses véritables intentions. A la quête d'un futur prédictible et sans failles, Blaise Mao expose ce "nouveau futurisme", rêvant d'une société sous le signe de la perfection absolue. Il dresse le tableau du futur "made in Silicon Valley" en quatre grands points qui permettent de mieux saisir les intentions des géants américains, qui ressemble fort à l'univers du Meilleur des mondes d'Aldous Huxley. 
+
+Le confort 
+Surveillance
+Abolition du hasard
+Injonction au bonheur
+
+D'un point de vue du design, qu'est ce que cela veut dire ?
+
+- 
+La Silicon Valley expérimente d'ailleurs elle-même son utopie dans le berceau Californien. Le livre United States of Google retrace notamment l'expansion du géant américain dans la vallée californienne, et la puissance économique qu'il possède désormais. Google défie les lois 
+United States of Google / Apple cercle
+
+> @BoredElonMusk. Bored Elon suggests occasionally funny, absurdist products and services—a “TV that automatically turns on subtitles when it recognizes by your facial expression that you’re having troubling hearing dialogue
 
 ----
 
-- dresser le tableau du futur made in silicon valley (confort/surveillance/abolition du hasard/injonction au bonheur)
 
 
 ###Solutionnisme
@@ -234,31 +231,65 @@ Cet argument appuie l'idée, émise au premier chapitre, d'une faillite de l'id�
 
 > "Technology is not neutral. We're inside of what we make, and it's inside of us. We're living in a world of connections - and it matters which ones get made and unmade." - Donna Haraway pour WIRED, 1997
 
-Les logiciels, les systèmes d'exploitations, les dispositifs, les objets que le Silicon Valley produit ne sont pas neutres. Ils sont designés de manière à être orienté vers tous les mécanismes évoqués plus hauts : surveillance, contrôle, injonction au bonheur, abolition du hasard... Ces entreprises produisent des dispositifs fermés, des boîtes noires gouvernées par les algorithmes. Mais ces algorithmes sont conçus par ces sociétés dans des buts précis. Mark Zuckerberg, Steve Jobs, ou Elon Musk peuvent parler de connecter le monde, d'enrichir notre vie personnelle, de créer de nouvelles expériences sociales, mais leurs produits tendent à faire l'inverse.
+On comprend d'un point de vue théorique comment peut fonctionner le modèle de la Silicon Valley? Mais qcomment cela se traduit concrètement, du point de vue des objets eux-mêmes ?
+D'abord, on observe que les logiciels, les systèmes d'exploitations, les dispositifs, les objets que la Silicon Valley produit ne sont pas neutres. Ils sont designés de manière à être orienté vers tous les mécanismes évoqués plus hauts : surveillance, contrôle, injonction au bonheur, abolition du hasard... Ces entreprises produisent des dispositifs fermés, des boîtes noires gouvernées par les algorithmes. Mais ces algorithmes sont conçus par ces sociétés dans des buts précis. Mark Zuckerberg, Steve Jobs, ou Elon Musk peuvent parler de connecter le monde, d'enrichir notre vie personnelle, de créer de nouvelles expériences sociales, mais leurs produits tendent à faire l'inverse.
+
+> [...] la technologie, ce n'est ni évident, ni rapide, ni magique. Il faut cesser de croire au pouvoir des beaux objets de design blancs et lisses. La technologie, c'est l'échec, l'erreur, l'itération - Laurence Allard, Sociologue
 
 Google a récemment mis au point un algorithme qui détecte les problèmes sur une photographie (faible exposition, mise au point ratée...etc) au moment où celle ci est prise avec un smartphone. L'algorithme corrige instantanément la photo, pour la rendre "meilleure". Mais que veut dire meilleure, pour Google ? En abolissant l'erreur, Google rêve que ses utilisateurs ne produisent plus que des images parfaites; selon *leurs critères*. Derrière ce côté *gadget* se cache là une forme de design qui tend à uniformiser toutes les prises de vues. On peut s'attendre à ce que les images, à terme, finissent toutes par se ressembler. C'est un exemple qui, sous un aspect insignifiant, expose les mécanismes de standardisation à l'oeuvre dans le design même des objets.
 
 > One example is Google’s development of self-driving cars. Initially, the company envisioned a vehicle that would aid the driver through Traffic Jam Assist and other elective autopilot features. But in development it proved more efficient simply to design humans out of the loop. The cars were stripped of their steering columns, and the model currently under development is more like an elevator, operating autonomously with very little human intervention.
+
+### The internet of shit
+Nous ne somme plus seulement dans l’ère d’Internet ; nous entrons doucement dans celle des objets connectés. Et connecté aujourd’hui semble vouloir dire smart, aux yeux des start-up et des gourous technophiles.
+
+Le smartphone est sans doute l'exemple le plus réussi de smart device : rendu célèbre par l'iPhone de Steve Jobs, le smartphone est le premier appareil intelligent accessible au grand public (depuis plus d'une décennie déjà). Le smartphone est un objet très bien conçu : il centralise plusieurs fonctions en un seul objet portable (téléphonie, internet, lecteur de musique, lecteur vidéo, GPS...etc). Il prend tout son sens avec le déploiement généralisé de la WiFi dans l’espace privé et public et de la 3G/4G, qui permettent un état de connexion permanent partout, tout le temps. Le téléphone mobile s'étant déjà imposé dans le quotidien, le smartphone a pu naturellement remplacer une version plus archaïque de ce qu'il est. C'est en quelque sorte la suite logique, l'évolution du téléphone mobile.
+
+On voit bien, dans le cas du téléphone, que rendre smart un objet peut se révéler fructueux, créer un véritable objet de design tant par son utilité et son apparence, que par son interface. Mais dans le cas d'une brosse à dent par exemple, quel est l’intérêt d'être smart ? Récolter des données dentaires,  des comparatifs de nettoyage, des statistiques sur le temps de brossage ; voilà ce que pourrait faire une smart brosse à dent.
+
+Cette récolte de données induit d'une part une réduction de la puissance de l'utilisateur : ce n'est plus à lui de sentir et maîtriser l'objet en question, l'objet est "auto-conscient" de ses actions : il les mesure. D'autre part, l'objet va induire une modification du comportement de l'utilisateur, au sens où il se sentira "redevable" à l'objet si celui ci lui indique de mauvaises statistiques, ou, pour reprendre le cas de la brosse à dent connectée, si il oublie de se brosser les dents avant d'aller se coucher.
+
+La mesure et la captation de nos gestes quotidiens induit une forme de surveillance, et par la même une forme de contrôle. Dans un cas aussi bête qu'une smart brosse à dent, l'utilisateur en viendra à se sentir coupable d'avoir raté un brossage, amenuisant ses statistiques, réduisant son taux d'efficacité...etc. Bien que risible, si cet exemple était amené à être utilisé par le plus grand nombre, et étendu à d'autres champs (hygiène, bonne conduite, relations sociales, divertissement), on peut aisément deviner le potentiel dangereux d'une telle forme de design. Un soft control consenti entre l’usager et le produit.  Les usages décrétés comme normaux seraient d’office adoptés par l’utilisateur, amenant une nouvelle forme de pression sociale et de normalisation de l’existence.
+
+
+### Smart everywhere
+> « It was just a dumb thing. Then we put a chip in it. Now it's a smart thing . » (Collectif « We Put A Chip In It »)
+
+Une manie récurrente de ces entreprises technologiques est de vouloir rendre tous les dispositifs qui nous entourent "smart". Il convient, il me semble, d'interroger l'usage de ce terme. La formule ‘Put a chip in it’ décrit bien l'absurdité du concept : insérer une puce électronique afin de connecter l'objet semble suffire à certains designers pour considérer l'objet comme intelligent. Évidemment, le terme intelligent évoque à lui seul l'intelligence artificielle, dont sont dotés aujourd'hui certains assistants de vie (Siri, Amazon Echo ou Google Home par exemple). L'intelligence de ces objets repose donc sur la qualité des algorithmes mis en œuvre par les concepteurs, mais aussi sur la qualité des données que l'objet reçoit ; plus elles sont précises, mieux l'algorithme fonctionnera. On devine ici le problème que cette surveillance déguisée impose : une acceptation sans limite dans l'intrusion de nos vies privées. 
+
+Le terme smart appliqué aux objets évoquerait donc à la fois la capacité d'adaptation de celui ci dans son milieu, mais aussi la passivité de l'utilisateur dans son rapport à l’objet. Un objet intelligent voudrait t-il dire un utilisateur idiot ?  L’écrivain de science fiction Alain Damasio soulève un rapport « pouvoir contre puissance » vis à vis de ces objets technologiques qui nous facilitent la vie. Avec un GPS par exemple, je gagne le pouvoir de me repérer, mais je perds ma puissance d'orientation. Le smart device reléguerait l'humain à l'arrière-plan, mettant en avant des technologies supposées intelligentes pour nous faire gagner des micro-secondes de temps, et ainsi mieux anticiper nos envies. La prédiction de nos modes de vie, voilà ce dont rêve la Silicon Valley . À quel point seront-nous un jour prédictibles?
+
+Ces objets connectés provoquent aussi parfois des situations absurdes : personne retrouvée enfermée chez elle car la smart serrure n'est pas mise à jour, autocuiseur connecté qui s'arrête en cas de SMS reçu, assistant de vie qui commande seul des objets sur le net en écoutant la radio...etc. Des situations qui nous feraient presque croire que nous sommes dans un film de Chaplin ou de Jacques Tati.
+
+On peut espérer que ce ne soit qu'un effet de mode ; en réalité, la plupart de ces produits n'intéressent pas le public et finissent aux oubliettes, dans la valley of death, comme le disent les Californiens. L’exemple le plus flagrant est celui des Google Glass, qui n’ont séduit qu’un public technophile, effrayant (à juste titre) le grand public. Mais ceux qui réussissent à atteindre constamment les individus et les foyers sont les plus dangereux, car ce sont ceux qui sont susceptible de récolter le plus données sur nous : téléphones, montres et assistants de vie.
+
+La monétisation de cette connaissance est déjà à l’œuvre aujourd’hui. Les data brokers (les traders de la donnée personnelle) s’échangent et spéculent sur les datas que le public disséminent partout sur le web. La numérisation systématique des données transforme notre regard sur le monde : tout peut devenir statistiques, classement, comparaisons, courbes, histogrammes. En calculant même le plus petit aspect de nos vies, c’est notre façon de penser et de nous comporter qui évolue ; toujours dans un sens, celui souhaité par les détenteurs de ces données : Facebook, Twitter, Google...
+
+Selon Éric Sadin, ces objets connectés partent du principe que notre raison humaine est défaillante. Nous serions « le défaut ultime », et la technique serait la solution. 
+Cela soulève un autre point très intéressant à mon sens, que Sadin met au coeur de sa pensée : la vision réductionniste de la Silicon Valley . Selon elle, tous les problèmes du monde vont être résolus par la technologie ! La technique comme réponse à tous les maux, c’est à la fois dangereux et, en effet, réducteur. Dangereux d’un point de vue social et économique (on peut le constater avec le cas d’Uber et la révolte de ses chauffeurs), mais aussi politique. Les entrepreneurs californiens, sous couvert de l’aspect novateur et disruptif de la technologie, pèsent fortement sur les décisions politiques liées au numérique. Grâce, notamment, à un fort lobbying au près des institutions européennes (près de 13 millions d’euros sont dépensés chaque année par Google, Microsoft, Facebok, Apple, Amazon, Twitter et Uber). Cela laisse champ libre à ces corporations pour dicter leurs propres règles en matière d’intelligence artificielle, de protection des données personnelles, de fiscalité, de réglementations VTC...etc
+
+Pour résumer, l’utopie siliconienne serait donc un monde prédictif, calculable et aseptisé, où la technologie répondrait à tous nos besoins sans le moindre effort, où chaque parcelle de vie serait monétisée. Dans ce monde débarrassé de toutes impuretés, propre et lisse, à l’image de leurs produits, comment remettre « l’humain, le bug et la poésie au cœur du système ?», comme le formule l’écrivain de science-fiction Aryel Kirou.
+
+
+
 
 ### On joue le jeu ?
  servitude volontaire -> herbert marcuse
 
 Il donne entre autre l'exemple de la BinCam, une poubelle connectée qui analyse les déchets jetés par les utilisateurs et publie des photos sur leurs réseaux sociaux afin, par exemple, d'encourager leurs amis à recycler.
 
+modèle civilisationnel
 désaséptiser le futur
 
 Critique de la modernité qu’on retrouve déjà, dans les Temps Modernes de Chaplin, et même une décenie plus tôt, chez Jacques Tati et son film Mon Oncle, dont la célèbre Villa Arpel se révèle être un temple du fonctionnalisme, où tout se détraque sur le passage de M. Hulot. 
 
-> [...] la technologie, ce n'est ni évident, ni rapide, ni magique. Il faut cesser de croire au pouvoir des beaux objets de design blancs et lisses. La technologie, c'est l'échec, l'erreur, l'itération - Laurence Allard, Sociologue
+
+> C'est faux de penser le futur comme une chose isolée. L'avenir n'est pas quelque chose d'acquis, ce n'est pas une météorite qui tombe du ciel, et c'est bien plus qu'une vision uniforme produite par la science fiction occidentale. Il y a une quantité de scénarios pour le futur, et ils n'ont pas encore été écrit. - Nicolas Nova (ITW speculative.hr)
 
 ---
 
 
-**Utopies politiques forgées sur l'accélération**
-
-Herbert Marcuse --> imagine que les technologies soulagent le monde, pacification de l'existence --> c'est une utopie qui ne s'est pas produite
-
-> Il est certain que la liberté dépend très largement du progrès technique et des acquisitions de la science. Mais cela ne doit pas faire perdre de vue la condition essentielle : pour pouvoir devenir des agents de libération, il faudrait que la science et la technologie modifient leur orientation et leurs objectifs actuels, il faudrait qu'elles soient reconstruites conformément à une sensibilité nouvelle - conformément aux impératifs des pulsions de vie. C'est seulement alors que l'on pourrait parler d'une technologie de la libération, fruit d'une imagniation scientifique libre désormais de concevoir et de réaliser les formes d'un univers humain d'où seraient exclus le labeur et l'exploitation.
+> Il est certain que la liberté dépend très largement du progrès technique et des acquisitions de la science. Mais cela ne doit pas faire perdre de vue la condition essentielle : pour pouvoir devenir des agents de libération, il faudrait que la science et la technologie modifient leur orientation et leurs objectifs actuels, il faudrait qu'elles soient reconstruites conformément à une sensibilité nouvelle - conformément aux impératifs des pulsions de vie. C'est seulement alors que l'on pourrait parler d'une technologie de la libération, fruit d'une imagniation scientifique libre désormais de concevoir et de réaliser les formes d'un univers humain d'où seraient exclus le labeur et l'exploitation. - Herbert Marcuse
 
 
 ---
@@ -267,6 +298,9 @@ PARTIE 3
 chantonsky disnovation
 
 REFERENCES
+
+Alan Wexler
+http://we-make-money-not-art.com/absurd-thinking-between-art-and-design/
 
 James Bridle - Autonomous Trap
 http://we-make-money-not-art.com/failing-to-distinguish-between-a-tractor-trailer-and-the-bright-white-sky/
