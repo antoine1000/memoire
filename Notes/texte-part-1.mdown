@@ -291,6 +291,19 @@ Critique de la modernité qu’on retrouve déjà, dans les Temps Modernes de Ch
 ---
 PARTIE 3
 
+mon discours =
+- il faut s'opposer à ce design, à ces utopies fondées sur l'innovation
+pourquoi ? idéologie que je rejette (problème sociaux, économiques, éthiques, moraux, je me sens plus proche des mouvements open-source...etc), bien plus intéressant selon moi la méthodologie spéculative, de réinventer sa pratique de designer (voir les manifestes), acte politique de refuser l'idéologie silicon valley
+- je suis fortement intéressé par les nouvelles technologies, je pense qu'il faut se la réapproprier, en comprendre les mécanismes (james bridle, thomas twaytes, hackacon) pour ne pas laisser les géants tout prendre en main (ne pas se laisser bluffer par la "magie" des objets (citation Arthur C. Clarke))
+- il faut créer des fictions qui inventent de nouveaux futurs, créer de nouvelles images, de nouveaux imaginaires. Pourquoi ? C'est important dans une pratique de designers/artiste de se constituer des collections (new aesthetics) etc, rêver à nouveau, de créer des alternatives (on s'oppose!), créer le débat (on provoque!)
+- il y a encore des problèmes avec le design speculatif (décolonialiser cette pensée, où ça mène finalement ?, faillite de la "critique" du design critique, obsolescence des projets à terme ?) 
+- mais pleins de pratiques qui se croisent, bouillonnements intéressants, discussions & débat sur la pratique du design (attention aux dangers de récupération comme méthodologie par le monde "mainstream", banalisation)
+- le design a son rôle à jouer dans tout ça, c'est pour ça que je parle de design spéculatif, et pas de science-fiction, c'est un autre format pour explorer le futur (et parler du présent)
+- Conclusion, répondre  la problématique, puis conclure en reprenant Auger : 
+    If we can explore various futures and describe alternative approaches to the one that we are following at the moment, why not try and make them happen? And that for me is the most positive outcome of a project.
+= créer des futurs positifs (préférables), mais aussi étranges et désobéissants
+
+
 chantonsky disnovation, désaseptiser le futur
 
 REFERENCES
@@ -303,7 +316,21 @@ http://we-make-money-not-art.com/failing-to-distinguish-between-a-tractor-traile
 > I think it’s incredibly important to understand the medium you’re working with, which in my case was machine vision and machine intelligence as applied to a self-driving car – something that makes its own way in the world. By understanding the materiality of the medium, you really get a sense of a much wider range of possibilities for it – something you will never do with someone else’s machine.
 > Je crois que c'est extrêmement important de comprendre le medium avec lequel on travaille, dans mon cas la *machine vision* et la *machine intelligence* appliqués aux voitures autonomes [...]. En assimilant la matérialité du médium, on se fait une bonne idée du spectre des possibilités avec lesquelles on peut travailler - quelque chose qui ne serait pas possible avec la machine de quelqu'un d'autre.
 
+    The most discussed work in the show is a video showing a driverless car entrapped inside a double circle of road markings made with salt. The vehicle, seemingly unable to make sense of the conflicting information, barely moves back and forth as if under the spell of a mysterious force. The work demonstrates admirably the limitation of machine perception, the pitfalls of a technology which inner working and logic is completely opaque to us, the difference between human and machine comprehension, between accuracy and reliability.
+
+Importance de construire de nouveaux futurs !
+
+       I believe there’s a concrete and causal relationship between the complexity of the systems we encounter every day, the opacity with which most of those systems are constructed or described, and fundamental, global issues of inequality, violence, populism and fundamentalism. Only through self-education, self-organisation, and new forms of systemic literacy can we counter these currents: programming is one form of systemic literacy, demonstrating the accessibility and comprehensibility of these technologies is another.
+
+    The best model for an autonomous vehicle future is basically good public transport – so why aren’t we building that?
+
+    What new forms of community, as hinted above, might they engender? On the other hand, I never set out to build a fully functioning car, but to understand and think through the processes of developing it, and to learn from the journey itself.
+
+je suis intéressé par cette idée de "hacker le futur", et détourner, se réapproprier des objets technologiques est une manière de le faire, appuyé par la méthodologie du design spéculatif. C'est un mélange de design et de fiction
+Les bugs technologiques racontent de nouvelles histoires
+
 Thomas Twaytes - Toaster Project
+Chindogu
 
 ----
 
@@ -315,15 +342,17 @@ Détournement d'objets technologiques à Cuba
 http://www.technologicaldisobedience.com/
 http://espacevirtuel.jeudepaume.org/technological-disobedience-2694/
 
-Imitation des usages technos par les aborigènes
+
++++ Imitation des usages technos par les aborigènes
 http://cargoclub.tumblr.com/
 http://espacevirtuel.jeudepaume.org/supercargo-2699/
 
-Julien Prévieux - Gestes à venir
++++ Julien Prévieux - Gestes à venir
 https://player.vimeo.com/video/59793317
 http://espacevirtuel.jeudepaume.org/what-shall-we-do-next-2727/
++ à mettre en relation avec Curious Rituals : http://curiousrituals.nearfuturelaboratory.com/
 
-Relation SF et imaginaire Silicon Valley
++++ Relation SF et imaginaire Silicon Valley
 http://espacevirtuel.jeudepaume.org/the-future-as-foretold-in-the-past-2705/
 
 UnfitBits
@@ -333,7 +362,7 @@ http://espacevirtuel.jeudepaume.org/unfit-bits-2931/
 Unplug
 http://espacevirtuel.jeudepaume.org/cyborg-unplug-2905/
 
-Institut précognitif de la propriété Industrielle
+++ Institut précognitif de la propriété Industrielle
 http://rybn.org/IPPI/brevets.php
 http://espacevirtuel.jeudepaume.org/institut-precognitif-de-la-propriete-industrielle-2910/
 
@@ -361,7 +390,20 @@ en s'intéressant au spéculatif, le design s'émancipe des contraintes de produ
 ----
  CONCLUSION
 
-évoquer les "ethnos futurs" : gothic high-tech, favela chic (Nicolas Nova) en opposition à notre vision occidentalo-centrée
+évoquer les "ethnos futurs" : gothic high-tech, favela chic (Nicolas Nova) en opposition à notre vision occidentalo-centrée, xenorealism (cargo-club)
+
+### Critique du design critique
+
+https://medium.com/a-parede/questioning-the-critical-in-speculative-critical-design-5a355cac2ca4
+> From its visual discourse to its formulations of near-future scenarios, SCD seems to be curiously apathetic and apolitical for a discipline that strives to be a critical response to mainstream perceptions of what design is, and what it should do.
+> Because your dystopia is happening to us, right now.
+
+bénéfices d'une tehnologie peut faire du tort à d'autres
+
+
++ Mémoire "critique du design critique"
+
+
 
 ######Citation de fin
 > As we rapidly move toward a monoculture that makes imagining genuine
