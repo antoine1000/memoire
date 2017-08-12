@@ -271,12 +271,8 @@ Cela soulève un autre point très intéressant à mon sens, que Sadin met au co
 Pour résumer, l’utopie siliconienne serait donc un monde prédictif, calculable et aseptisé, où la technologie répondrait à tous nos besoins sans le moindre effort, où chaque parcelle de vie serait monétisée. Dans ce monde débarrassé de toutes impuretés, propre et lisse, à l’image de leurs produits, comment remettre « l’humain, le bug et la poésie au cœur du système ?», comme le formule l’écrivain de science-fiction Aryel Kirou.
 
 
-
-
 ### On joue le jeu ?
  servitude volontaire -> herbert marcuse
-
-Il donne entre autre l'exemple de la BinCam, une poubelle connectée qui analyse les déchets jetés par les utilisateurs et publie des photos sur leurs réseaux sociaux afin, par exemple, d'encourager leurs amis à recycler.
 
 modèle civilisationnel
 désaséptiser le futur
@@ -295,7 +291,7 @@ Critique de la modernité qu’on retrouve déjà, dans les Temps Modernes de Ch
 ---
 PARTIE 3
 
-chantonsky disnovation
+chantonsky disnovation, désaseptiser le futur
 
 REFERENCES
 
@@ -305,9 +301,15 @@ http://we-make-money-not-art.com/absurd-thinking-between-art-and-design/
 James Bridle - Autonomous Trap
 http://we-make-money-not-art.com/failing-to-distinguish-between-a-tractor-trailer-and-the-bright-white-sky/
 > I think it’s incredibly important to understand the medium you’re working with, which in my case was machine vision and machine intelligence as applied to a self-driving car – something that makes its own way in the world. By understanding the materiality of the medium, you really get a sense of a much wider range of possibilities for it – something you will never do with someone else’s machine.
-> Je crois que c'est extrêmement important de comprendre le medium avec lequel tu travailles, dans mon cas la *machine vision* et la *machine intelligence* appliqués aux voitures autonomes - [quelque chose qui a fait sa place dans le monde]. En assimilant la matérialité du médium, tu te fais une bonne idée du spectre des possibilités avec lesquelles tu peux travailler - quelque chose qui ne serait pas possible avec la machine de quelqu'un d'autre.
+> Je crois que c'est extrêmement important de comprendre le medium avec lequel on travaille, dans mon cas la *machine vision* et la *machine intelligence* appliqués aux voitures autonomes [...]. En assimilant la matérialité du médium, on se fait une bonne idée du spectre des possibilités avec lesquelles on peut travailler - quelque chose qui ne serait pas possible avec la machine de quelqu'un d'autre.
 
-Projets de 3D Additivism Cookbook
+Thomas Twaytes - Toaster Project
+
+----
+
+### ESPACE VIRTUEL
+
+Manifeste
 
 Détournement d'objets technologiques à Cuba 
 http://www.technologicaldisobedience.com/
@@ -335,6 +337,31 @@ Institut précognitif de la propriété Industrielle
 http://rybn.org/IPPI/brevets.php
 http://espacevirtuel.jeudepaume.org/institut-precognitif-de-la-propriete-industrielle-2910/
 
+----
+
+Spéculatif
+
+>  "Nous avons besoin de nouveaux types de récit", a écrit Haraway. Des récits qui réclament la terre et les communs que le capitalisme nous a dérobés. Des récits qui nous invitent à reprendre et à créer des sensibilités trans-espèces, des vitalités trans-matières et des agitations trans-cérébrales. Il ne suffira pas de les imaginer, ces récits, il faudra les fabriquer. Et même la fabrication ne suffira pas, il faudra apprendre à fabuler c’est-à-dire à se risquer dans des narrations et des cosmologies qui puissent accueillir ces sensibilités, vitalités et agitations transversales. Car fabuler est bien un nouveau genre de construction, en tout cas pour celles et ceux qui créent des savoirs. Selon nous (nous peuplés de pratiques sociologique, anthropologique et artistique), les fabulations sont ces récits qui creusent des interstices dans notre monde, le travestissent et le manipulent dans un envol plus-qu’imaginaire (entendez: cosmologiques, métaphysiques) jusqu’à ce qu’il puisse susciter des nouveaux attachements et obliger à ce qu’on rouvre l’enquête, à ce qu’on explore à nouveau ce territoire délaissé qui ne semblait pas mériter notre attention. C’est un acte de repeuplement qui ne se laissera plus piéger par la question du Vrai et du Faux. Faire bégayer le réel, élargir le spectre, faire émerger de nouveaux mondes reliés qui nous déconcertent, les déployer en suscitant l'appétit du possible, afin de déplacer la prétention écrasante du monde trop bien décrit, trouver des ruses, jouer, en retournant inlassablement à nos pratiques, en affirmant la nécessité de nouvelles manières de raconter et d’expérimenter ces mondes, voilà ce que nous devons apprendre à faire.
+
+spéculatif en opposition au monde des probabilités
+
+> La spéculation. Etymologiquement, le speculari, c’est le miroir dans l’image ou l’image dans le miroir. Ainsi, originellement, spéculer c’est observer et mettre en place des instruments relatifs à cette observation, à cette vision. Or, les philosophes dits spéculatifs semblent avoir horreur de la vision, préférant être « dans les idées pures ».
+
+Autre étymologie : dans l’empire romain, speculari, c’est le guet, la sentinelle, c’est même devenu l’éclaireur ou l’espion. Le speculari, dans ce sens là, n’est pas celui qui observe directement, c’est celui qui cherche des signes de la présence de quelque chose qui n’est pas déjà là.
+
+(D’où : la neurologie est une science hautement spéculative !)
+
+Tendre son attention par les signes vers quelque chose de possible. La philosophie spéculative s’intéresse plus aux questions de possibilités que d’observation.
+
+en s'intéressant au spéculatif, le design s'émancipe des contraintes de productions industrielle et des restrictions économiques
+
+
+
+
+----
+ CONCLUSION
+
+évoquer les "ethnos futurs" : gothic high-tech, favela chic (Nicolas Nova) en opposition à notre vision occidentalo-centrée
 
 ######Citation de fin
 > As we rapidly move toward a monoculture that makes imagining genuine

@@ -81,6 +81,8 @@ articulation avec la seconde partie
 - smart design + internet of shit + failed futures = en fait, ce futur ne fonctionne pas comme prévu
 - le concept de futur est réduit aux innovations technologiques alors que c'est aussi des innovations sociales, politiques, écologiques...etc
 
+ironiquement, les hippies de la Silicon Valley des années 1970 sont devenues les gourous technophiles de notre présent, influencés par les drogues de synthèses
+
 d'où l'importance d'**engager une résistance** face à ces visions du futur
 articulation avec la partie suivante
 
@@ -89,8 +91,8 @@ articulation avec la partie suivante
 ### La guerre des imaginaires est ouverte
 > Tour d'horizon du mouvement spéculatif : méthodologie, exemples et théorie. Focus sur un mouvement en particulier qui se distingue au sein de ce champ du design : disnovation
 
-##### Savoir dire non
-- le rejet de cette vision, plusieurs practiciens font des **manifestes** : accelerationism / additivism / A/B Dunne & Rabby / désincarcérer le futur Alain Damasio...etc mais aussi des mouvements politiques (les ennemis de la machine via usbek et rica)
+##### non-progress dogma
+- je m'intéresse personnellement aux designers qui combattent cette vision, plusieurs praticiens font des **manifestes** : crapism / disnovation / A/B Dunne & Rabby / design frictions/ désincarcérer le futur Alain Damasio...etc mais aussi des mouvements politiques (les ennemis de la machine via usbek et rica)
 - pour combattre, il faut **des armes**, **des outils** : le **spéculatif comme outil de pensée alternative**
 - mouvement "futurs déviant/disnovation" plus particulièrement, une tendance au sein de cette pratique vise à mettre en perspective les discours de l'innovation et les utopies technologiques
 
@@ -106,7 +108,10 @@ articulation avec la partie suivante
 ### Conclusion : Pour des futurs désobéissants
 - répondre à la problématique de départ : en quoi le design spéculatif est un outil de réappropriation du futur ? -> réponses = méthodologie/exemples/nécessité/résultat concret
 - les limites du design spéculatif (méthodologie ravalée par le capitalisme ? succombe à l'effet de mode), problème posé + le futur de ce mouvement (débat speculative now)
-- exposer ma vision des choses : concrétiser les propositions, de la fiction à la réalité, créer des futurs positifs, passer de la pensée *en contre* à la pensée *en pour* (ne plus dire **non au futur parfait**, mais **oui au futur atypique**), pratique **d'exploration des futurs**
+- exposer ma vision des choses : concrétiser les propositions n'est pas l'enjeu de cette pratique, passer de la fiction à la réalité : james auger trouve ça cool, créer des futurs positifs, passer de la pensée *en contre* à la pensée *en pour* (ne plus dire **non au futur parfait**, mais **oui au futur atypique**), pratique **d'exploration des futurs** que j'embrasse dans mon travail
+
+- imaginer – pour le meilleur et pour le pire – les évolutions de nos pratiques sociales : le design fiction est ainsi paré d’incontestables vertus pédagogiques. En s’immisçant dans un espace situé entre le domaine tangible de la science et l’art du récit d’anticipation, il permet d’éprouver les limites de nos fantasmes sociotechniques. A tel point que certains préfèrent désormais parler de design « friction », plus à même de mettre en lumière les glitches d’un futur aux perspectives parfois plus anxiogènes que rassurantes.
+
 - en quoi est-ce nécessaire d'inventer et de voir de nouvelles images ? (en tant que practicien) -> point de vue personnel, qu'est ce que ça apporte dans mon travail ? pour quelles raisons ça m'intéresse ? gagner la guerre des imaginaires, plus que de créer des fictions alternatives, il faut agir concrètement (ethics by design...etc) importance de construire des récits alternatifs, en tant que designer : rendre la technologie visible
 - ces oeuvres de design spéculatif me rappelle qu'il y a des failles dans la technologies, qu'il est intéressant d'exploiter en tant que practicien : faire bugger la machine, c'est ce qui crée de l'innatendu, de l'intéressant, à la fois l'enjeu de démystyfication, le projet de grille-pain de thomas twaites par exemple, mais aussi de création par l'erreur, c'est ce que j'essaye de faire dans mon travail, de créer des scénarios un peu étrange 
 
