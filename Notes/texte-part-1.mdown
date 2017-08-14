@@ -288,23 +288,105 @@ Critique de la modernité qu’on retrouve déjà, dans les Temps Modernes de Ch
 > Il est certain que la liberté dépend très largement du progrès technique et des acquisitions de la science. Mais cela ne doit pas faire perdre de vue la condition essentielle : pour pouvoir devenir des agents de libération, il faudrait que la science et la technologie modifient leur orientation et leurs objectifs actuels, il faudrait qu'elles soient reconstruites conformément à une sensibilité nouvelle - conformément aux impératifs des pulsions de vie. C'est seulement alors que l'on pourrait parler d'une technologie de la libération, fruit d'une imagniation scientifique libre désormais de concevoir et de réaliser les formes d'un univers humain d'où seraient exclus le labeur et l'exploitation. - Herbert Marcuse
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
-PARTIE 3
+### PARTIE 3
 
-mon discours =
-- il faut s'opposer à ce design, à ces utopies fondées sur l'innovation
-pourquoi ? idéologie que je rejette (problème sociaux, économiques, éthiques, moraux, je me sens plus proche des mouvements open-source...etc), bien plus intéressant selon moi la méthodologie spéculative, de réinventer sa pratique de designer (voir les manifestes), acte politique de refuser l'idéologie silicon valley
-- je suis fortement intéressé par les nouvelles technologies, je pense qu'il faut se la réapproprier, en comprendre les mécanismes (james bridle, thomas twaytes, hackacon) pour ne pas laisser les géants tout prendre en main (ne pas se laisser bluffer par la "magie" des objets (citation Arthur C. Clarke))
-- il faut créer des fictions qui inventent de nouveaux futurs, créer de nouvelles images, de nouveaux imaginaires. Pourquoi ? C'est important dans une pratique de designers/artiste de se constituer des collections (new aesthetics) etc, rêver à nouveau, de créer des alternatives (on s'oppose!), créer le débat (on provoque!)
-- il y a encore des problèmes avec le design speculatif (décolonialiser cette pensée, où ça mène finalement ?, faillite de la "critique" du design critique, obsolescence des projets à terme ?) 
-- mais pleins de pratiques qui se croisent, bouillonnements intéressants, discussions & débat sur la pratique du design (attention aux dangers de récupération comme méthodologie par le monde "mainstream", banalisation)
-- le design a son rôle à jouer dans tout ça, c'est pour ça que je parle de design spéculatif, et pas de science-fiction, c'est un autre format pour explorer le futur (et parler du présent)
-- Conclusion, répondre  la problématique, puis conclure en reprenant Auger : 
+1) commencer par parler du **mouvement spéculatif** (philosophique), le décrire rapidement, son but, en quoi c'est **une réponse pour inventer de nouveaux imaginaires** (format littérature/narration), en venir aux "gestes spéculatifs" (mise en pratique de la pensée), en quoi le design spéculatif peut être une continuité, **un passage à l'acte** de cette pensée, et moi en tant que designer interactif je veux parler de ça, pour plusieurs raisons :
+
+
+volonté d'ouvrir de nouvelles perspectives à la pratique du design
+2) il faut **s'opposer à ce design, à ces utopies fondées sur l'innovation**.
+Pourquoi ? idéologie que je rejette (problème sociaux, économiques, éthiques, moraux, je me sens plus proche des mouvements open-source...etc) (ex: disnovation, futurs déviants), bien plus intéressant selon moi la méthodologie spéculative, de **réinventer sa pratique de designer** (ex: manifeste A/B, manifeste crapfutures, manifeste design frictions), acte politique de refuser l'idéologie silicon valley! (le design n'est pas neutre! on s'engage)
++ "innovation trap" / "cultural enquiry" = http://speculative.hr/en/matt-ward/
+>Speculative practice is related to two basic concepts: speculation on possible futures and the design of an alternative present. Speculation on the future generates scenarios of the future that critically question the concept of development, the implementation and use of new technolo gies and their wider social implications. The concept of an alternative present refers to the creation of parallel urban technological realities. These specific approaches offer a rich narrative potential for the questioning and criticism of technological development, but also of contemporary society as such. The issues dealt with can be exceptionally broad, from big socio-political topics to ordinary everyday activities. = http://speculative.hr/en/introduction-to-speculative-design-practice/
+
+3) je suis fortement intéressé par les nouvelles technologies, je pense qu'il est **nécessaire de se la réapproprier et en comprendre les mécanismes** (james bridle, thomas twaytes, hackacon), **cultiver l'erreur** pour ne pas laisser les géants tout prendre en main, pratique de prototypage qui m'attire, désaseptiser le futur (ne pas se laisser bluffer par la "magie" des objets (citation Arthur C. Clarke)) 
++ design spéculatif/rapport à l'éducaction (la plupart des projets sont des projets étudiants), d'où ce rapport à l'erreur/l'essai, mais aussi transdisciplinaire (je ne suis pas designer, ni vraiment graphiste, ni développeur, un peu de tout)
++ science and technology, design and research
++ david benque : http://speculative.hr/en/david-benque-im-trying-to-articulate-what-speculation-means-in-my-own-practice/
+> I recognise myself in the umbrella term “speculative design” but it means so much and so little at the same time. I think it is more useful to consider it as a set of ingredients and methods that people can use (or not) in making their own “sauce”.
+
+
+4) **il faut créer des fictions qui inventent de nouveaux futurs**, *le* futur n'existe pas! il y a *des* futurs, créer de nouvelles images, de nouveaux imaginaires. Pourquoi ? C'est important dans une pratique de designers/artiste de **se constituer des collections** (ex: new aesthetics, Tao Bao), construire de nouvelles grilles de lectures, rêver à nouveau, créer des alternatives (on s'oppose!) et créer le débat (on provoque!), permet de prendre des chemins différents puisque insoumis aux contraintes (ex: disobedient objects, naturePod stuart candy, hyperReality), créer une fiction qui parle de technologie, ça nous fait réfléchir au futur (Nicolas Nova Interview : on crée des mondes plus que des histoires)
+>  The role of speculative design and design fiction projects is to experiment with change (be it technological, social or ecological) and project concepts dealing with potential futures
+>  speculative design aims to initiating discussion (dans le cadre d'un débat par exemple), permet de s'interroger sur les conséquences d'un objet (préférable ou non ?)
+>  Gestes / Near Future / Futures of everyday life --> situer le futur dans l'ordinaire, du banal (à l'inverse de la Silicon Valley)
+>  design fiction = artefacts du futur, stuart candy conceptualise : futur experientiel ("tester le futur")
+
+le public doit s'engager avec les projets! il faut qu'il puisse s'identifier, mais du coup soulève les problèmes du design spéculatif :
+
+5) le problème que je pose est un problème occidental, il y a des **problèmes avec le design speculatif** (décolonialiser cette pensée, où ça mène finalement ?, faillite de la "critique" du design critique ?, obsolescence des projets à terme ?, récupération de cette méthodologie dans le milieu de l'entreprise ?), ce n'est pas une solution miracle!
+> http://modesofcriticism.org/futuristic-gizmos-conservative-ideals/
+> http://speculative.hr/en/cameron-tonkinwise/
+> http://speculative.hr/en/francisco-laranjo/
+> afrofuturisme https://blackmagicdc.splashthat.com/
+> 
+>SCD will never evolve past a discipline stuck in its own little universe of weather forecasts and smart fridges, incapable of seeing how shallow its own speculations are, and how much more relevant and inclusive they could be. - https://medium.com/a-parede/questioning-the-critical-in-speculative-critical-design-5a355cac2ca4
+
+- mais pleins de pratiques qui se croisent (design fiction, near future design) et qui donnent des pistes pour réfléchir au futur, bouillonnements intéressants, discussions & débat sur la pratique du design (ex: speculative now!)
+
+- le **design a son rôle à jouer** dans tout ça, c'est pour ça que je parle de design spéculatif, et pas de science-fiction, c'est un autre **format pour explorer le futur** et parler du présent (ref: conférence Nicolas Nova), le design spéculatif permet de "créer des mondes" autour d'objets, ces objets sont les signes tangibles de ce futurs
+
+metahaven
+
+> "Powerful critical design does not present itself as critical design. Powerful design fiction does not present itself as fiction."
+- Matt Manos
+
+comme l'on réussit les projets de Auger-Loizeau, le "suspend desbelief" de Sterling 
+
+---
+
+### Conclusion
+
+- répondre  la problématique : outil certes, mais efficace je ne sais pas, c'est plus une réflexion, une position intéressante en tant que designer qu'une vraie "exploration des futurs", d'autant que notre capacité d'émerveillement semble se réduire, beaucoup de "near-future" mais pas beaucoup de projections plus lointaines
+
+le futur captive énormement, on l'a vu, car la technologie/innovation sont relié à ce concept, mais si les visions du futurs se multiplient c'est aussi parce qu'il inquiète beaucoup. Le problème écologique est imminent, et le design a aussi son rôle à jouer dans ces problèmes
+
+> Seriously, what I find far more ominous is how seldom, today, we see the phrase “the 22nd century.” Almost never. Compare this with the frequency with which the 21st century was evoked in popular culture during, say, the 1920s.
+> http://www.vulture.com/2017/08/william-gibson-archangel-apocalypses-dystopias.html
++ sentiment d'atemporalité, qui renforce cette difficulté à se projeter dans des futurs plus lointains
+
+ puis conclure en reprenant Auger : 
+
     If we can explore various futures and describe alternative approaches to the one that we are following at the moment, why not try and make them happen? And that for me is the most positive outcome of a project.
-= créer des futurs positifs (préférables), mais aussi étranges et désobéissants
 
+= créer des futurs positifs (préférables, reciter dunne & rabby), mais aussi étranges et désobéissants, 
+pour reprendre la formule d'Aryel Kyrou, à laquelle ce mémoire emprunte son titre, c'est notre rôle de praticiens de mener à bien la guerre des imaginaires
 
-chantonsky disnovation, désaseptiser le futur
+---
 
 REFERENCES
 
@@ -342,7 +424,6 @@ Détournement d'objets technologiques à Cuba
 http://www.technologicaldisobedience.com/
 http://espacevirtuel.jeudepaume.org/technological-disobedience-2694/
 
-
 +++ Imitation des usages technos par les aborigènes
 http://cargoclub.tumblr.com/
 http://espacevirtuel.jeudepaume.org/supercargo-2699/
@@ -368,7 +449,7 @@ http://espacevirtuel.jeudepaume.org/institut-precognitif-de-la-propriete-industr
 
 ----
 
-Spéculatif
+1) la pensée spéculative
 
 >  "Nous avons besoin de nouveaux types de récit", a écrit Haraway. Des récits qui réclament la terre et les communs que le capitalisme nous a dérobés. Des récits qui nous invitent à reprendre et à créer des sensibilités trans-espèces, des vitalités trans-matières et des agitations trans-cérébrales. Il ne suffira pas de les imaginer, ces récits, il faudra les fabriquer. Et même la fabrication ne suffira pas, il faudra apprendre à fabuler c’est-à-dire à se risquer dans des narrations et des cosmologies qui puissent accueillir ces sensibilités, vitalités et agitations transversales. Car fabuler est bien un nouveau genre de construction, en tout cas pour celles et ceux qui créent des savoirs. Selon nous (nous peuplés de pratiques sociologique, anthropologique et artistique), les fabulations sont ces récits qui creusent des interstices dans notre monde, le travestissent et le manipulent dans un envol plus-qu’imaginaire (entendez: cosmologiques, métaphysiques) jusqu’à ce qu’il puisse susciter des nouveaux attachements et obliger à ce qu’on rouvre l’enquête, à ce qu’on explore à nouveau ce territoire délaissé qui ne semblait pas mériter notre attention. C’est un acte de repeuplement qui ne se laissera plus piéger par la question du Vrai et du Faux. Faire bégayer le réel, élargir le spectre, faire émerger de nouveaux mondes reliés qui nous déconcertent, les déployer en suscitant l'appétit du possible, afin de déplacer la prétention écrasante du monde trop bien décrit, trouver des ruses, jouer, en retournant inlassablement à nos pratiques, en affirmant la nécessité de nouvelles manières de raconter et d’expérimenter ces mondes, voilà ce que nous devons apprendre à faire.
 
@@ -383,6 +464,20 @@ Autre étymologie : dans l’empire romain, speculari, c’est le guet, la senti
 Tendre son attention par les signes vers quelque chose de possible. La philosophie spéculative s’intéresse plus aux questions de possibilités que d’observation.
 
 en s'intéressant au spéculatif, le design s'émancipe des contraintes de productions industrielle et des restrictions économiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -403,7 +498,7 @@ bénéfices d'une tehnologie peut faire du tort à d'autres
 
 + Mémoire "critique du design critique"
 
-
+> Speculative practice draws inspiration from the poetics of literature, music, visual arts, film, computer graphics and architecture, especially in their avant-garde forms. Storytelling has considerable power and a deep-running tradition in human history in stimulating discussions and critical thinking. Speculative scenarios are open-ended and offer the audience the possibility of personal interpretation. They frequently include humour, often of the dark variety, close to satire, which activates the audience on an emotional and intellectual level, in a way similar to literature and film. Speculative scenarios are often unusual, curious, occasionally even disturbing, but desirable and attractive to the audience. However, only concepts that successfully communicate with the suspension of disbelief, actually provoke attention, emotions, and stimulate thinking and discussion, which, after all, is the main goal of speculative practice. - introduction to speculative practice (speculative.hr)
 
 ######Citation de fin
 > As we rapidly move toward a monoculture that makes imagining genuine
